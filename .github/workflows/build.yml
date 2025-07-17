@@ -1,22 +1,23 @@
-name: Build pull-request
+name: Build pull-requests and branches
 
 on:
   merge_group:
   pull_request:
     branches:
       - main
+  push:
     # Review gh actions docs if you want to further define triggers, paths, etc
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
 jobs:
-  build-pullrequest:
-    name: Build pull-request
+  build:
+    name: Build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: yarn
 
       - name: Install dependencies

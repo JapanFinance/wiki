@@ -1,4 +1,4 @@
-name = "shakuzen"
+name = "wiki-japanfinance"
 compatibility_date = "2025-07-14"
 
 routes = [
@@ -8,3 +8,6 @@ routes = [
 [assets]
 directory = "./build/"
 not_found_handling = "404-page"
+
+[build]
+command = "yarn build"
