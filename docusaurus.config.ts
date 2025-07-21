@@ -102,6 +102,12 @@ const config: Config = {
             label: 'Wiki',
           },
           {
+            href: 'https://kei3.japanfinance.org',
+            position: 'left',
+            label: 'Calculator',
+            'aria-label': 'JapanFinance Calculator',
+          },
+          {
             href: 'https://www.reddit.com/r/JapanFinance/',
             position: 'right',
             className: 'header-reddit-link',
