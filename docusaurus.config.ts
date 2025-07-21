@@ -83,7 +83,7 @@ const config: Config = {
   themeConfig:
     {
       announcementBar: {
-        content: 'Check out the <a href="https://kei3.japanfinance.org" target="_blank">Calculator</a>!',
+        content: '🧮 Check out the <a href="https://kei3.japanfinance.org" target="_blank">Calculator</a>! 🧮',
       },
       colorMode: {
         respectPrefersColorScheme: true,
