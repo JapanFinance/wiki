@@ -10,7 +10,7 @@ In Japanese, it is 国外財産調書. This report was also formerly often trans
 
 ### Outline
 
-The RFA is an obligation to declare assets located outside of Japan for [tax residents](https://japanfinance.github.io/tax/income/#tax-residency) (other than [non-permanent tax residents](https://japanfinance.github.io/tax/income/#non-permanent-tax-residents)), if they have a value of 50 million yen or more, as of December 31st of the previous year.
+The RFA is an obligation to declare assets located outside of Japan for [tax residents](/tax/income/#tax-residency) (other than [non-permanent tax residents](/tax/income/#non-permanent-tax-residents)), if they have a value of 50 million yen or more, as of December 31st of the previous year.
 
 The deadline to file is the last day of June (if this is a weekend, then the following Monday).
 
@@ -21,7 +21,7 @@ The deadline to file is the last day of June (if this is a weekend, then the fol
 
 ### Who needs to file
 
-[Tax residents](https://japanfinance.github.io/tax/income/#tax-residency) (other than [non-permanent tax residents](https://japanfinance.github.io/tax/income/#non-permanent-tax-residents)) whose overseas assets have a market value of JPY 50 million or more on December 31st of the previous year (regardless of whether the individual is required to file a tax return).
+[Tax residents](/tax/income/#tax-residency) (other than [non-permanent tax residents](/tax/income/#non-permanent-tax-residents)) whose overseas assets have a market value of JPY 50 million or more on December 31st of the previous year (regardless of whether the individual is required to file a tax return).
 
 ### Tax and cost
 
@@ -83,9 +83,9 @@ flowchart TD
     E -->|Yes| B
 ```
 
-See [Exit Tax](https://japanfinance.github.io/tax/other/#exit-tax) for info on which assets are subject to the Exit Tax.
+See [Exit Tax](/tax/other/#exit-tax) for info on which assets are subject to the Exit Tax.
 
-See [here](https://japanfinance.github.io/tax/income/returns/#who-must-file) for who must file an income tax return.
+See [here](/tax/income/returns/#who-must-file) for who must file an income tax return.
 
 ### Tax and cost
 
