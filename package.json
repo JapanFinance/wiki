@@ -35,7 +35,7 @@
     "@playwright/test": "^1.54.2",
     "cheerio": "^1.1.2",
     "typescript": "^5.8.3",
-    "wrangler": "^4.27.0"
+    "wrangler": "^4.28.1"
   },
   "resolutions": {
     "trim": "^0.0.3",
