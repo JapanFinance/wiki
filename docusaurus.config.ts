@@ -109,6 +109,7 @@ const config: Config = {
             position: 'left',
             label: 'Calculator',
             'aria-label': 'JapanFinance Calculator',
+            rel: '',
           },
           {
             href: 'https://www.reddit.com/r/JapanFinance/',
