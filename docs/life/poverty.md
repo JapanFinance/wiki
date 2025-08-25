@@ -23,3 +23,7 @@ For vegetables, it is often cheaper to look for a local greengrocer (八百屋) 
 Some education institutions, such as public universities, have canteens open to the public, and usually offer a healthy balanced meal ([provider example](https://gakushoku.coop/)) for [a few hundred yens](https://www.reddit.com/r/JapanFinance/comments/oas66i/weekly_offtopic_thread_30_june_2021/h3jmdln?utm_source=share&utm_medium=web2x&context=3).
 
 There are some [food bank](https://www.reddit.com/r/japanlife/comments/umemgq/emergency_food_services/) associations.
+
+## Smartphones & data
+
+Good models can be found [around the 15k JPY mark as of 2025](https://www.reddit.com/r/JapanFinance/comments/1mzj1wb/psa_solid_smartphones_for_15k_osaifumynumberesim/) and providers like Povo offer 3G per month for 1000 yen while also being able to switch payment on or off every month without loosing the number (for up to six months).
