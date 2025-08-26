@@ -3,8 +3,8 @@
 This page features tables summarizing the treaty rules for some common types of income. In particular, these tables are intended to help people living in Japan confirm:
 
 - when they are entitled to avoid double-taxation by preventing a country from taxing them; 
-- when they are entitled to alleviate double-taxation by claiming a foreign tax credit; and
-- when a foreign tax credit is required, which country must provide them with the credit.
+- when they are entitled to alleviate double-taxation by claiming a foreign tax credit (FTC); and
+- when a foreign tax credit (FTC) is required, which country must provide them with the credit.
 
 ## Explanations and disclaimers
 
