@@ -107,11 +107,11 @@ The 50万円 deduction for > 1000万円 but less than 3000万円 makes it so tha
 
 ## Early inheritance system
 
-The "early inheritance" scheme offers an expanded tax-free gift allowance (lifetime allowance of 25 million yen) and beneficial tax rates to children who elect to be taxed on gifts received from their parents at the time of their parent's death. It's a way to effectively tell the tax office, "this is an advance on my inheritance so please tax me as if it was an inheritance, not a gift". Again, it is necessary to file a gift tax return to access this scheme.
+The "early inheritance" scheme offers an expanded tax-free allowance (lifetime allowance of 25 million yen per donor) and beneficial tax rates to children who elect to be taxed on gifts received from their parents at the time of their parent's death. It's a way to effectively tell the tax office, "this is an advance on my inheritance so please tax me as if it was an inheritance, not a gift". Again, it is necessary to file a gift tax return to access this scheme, and parents must be at least 60 years old.
 
 The details are here : https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/4103.htm
 
-See also [this comment](https://www.reddit.com/r/JapanFinance/comments/xx4428/comment/ircud3e/).
+See also [2022-07 this comment](https://www.reddit.com/r/JapanFinance/comments/xx4428/comment/ircud3e/) but note that the section 'No more tax-free gifts' is no longer applicable due to law changes, and this [2025-08 comment](https://www.reddit.com/r/JapanFinance/comments/1n0cbix/comment/napljs6/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
 
 
 ## Offsetting of foreign-paid taxes
