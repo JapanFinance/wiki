@@ -1,6 +1,6 @@
 # Explanation of the sub's rules
 
-This page is a living document and we will update it with additional examples and explanations as they arise. If you have any questions or suggestions, please contact us by [modmail](https://www.reddit.com/message/compose?to=/r/JapanFinance) or make a comment in the next monthly moderation thread.
+This page is a living document and we will update it with additional examples and explanations as they arise. If you have any questions or suggestions, please contact us by [modmail](https://www.reddit.com/message/compose?to=/r/JapanFinance).
 
 ## Rule 1: Be nice
 
@@ -28,11 +28,11 @@ There are a few different ways that a post or comment could violate rule 2.
 
 - Not sufficiently concerned with **English-speaking residents of Japan**. The mods will never require that users reveal their real-life country of residence, and therefore current Japanese residency is not *technically* a prerequisite for contributing. However, the purpose of the sub is to provide a place for users to discuss finance and tech issues that relate to them *as residents of Japan*.
 
-- Not sufficiently connected to **finance and tech**. We tend to interpret "finance" very broadly in this context (anything related to money, basically), but we interpret "tech" more narrowly. Obviously tech that has some kind of financial aspect to it is fine, and general discussions of productivity/lifestyle tech will also typically be allowed, but we want to leave the community a bit of flexibility to work out its own boundaries with respect to "tech" content. So there may be some inconsistency around this issue in the sub's early months. Please keep this in mind if we ask you to move something to the weekly "off-topic" thread.
+- Not sufficiently connected to **finance and tech**. We tend to interpret "finance" very broadly in this context (anything related to money, basically), but we interpret "tech" more narrowly. Obviously tech that has some kind of financial aspect to it is fine, and general discussions of productivity/lifestyle tech will also typically be allowed, but we want to leave the community a bit of flexibility to work out its own boundaries with respect to "tech" content. Please keep this in mind if we ask you to move something to the weekly "off-topic" thread.
 
 - Not sufficiently **collaborative and constructive**. This part of rule 2 requires contributions to build on other users' prior contributions rather than merely disregard or dismiss them. Of course, this doesn't mean that users can't criticize other users' comments/posts. But it does mean that such criticism needs to be explained or justified in some way. In practice, the application of this rule will be heavily context-dependent. For example, if one user has posted merely "I love the pension system", then a reply stating "I hate the pension system" wouldn't violate rule 2; but if one user has posted a lengthy explanation of certain positive aspects of the pension system, then a reply stating merely "I hate the pension system" *would* violate rule 2. Another example of actions violating the collaborative aspect of this rule is deleting or otherwise removing the contents of a post or comment after others have taken the time and effort to provide a response - this deprives other users of the subreddit from benefitting from the full content of the exchange.
 
-- Not sufficiently **connected to reality**. For discussions in the subreddit to be constructive, it is necessary for posts and comments to reflect a base level of respect for some fundamental aspects of the world we live in. For this reason, rule 2 generally prohibits outlandish "conspiracy theory"-type content that promotes or assumes ideas that are so unfounded or unjustifiable as to make constructive discussion impossible. The expectation is that users make sincere efforts to justify fact-based claims by reference to primary sources as much as possible. This doesn't mean every claim ever made must be rigorously sourced, of course. But it does mean that persistent refusal to explain or justify an assertion could cause that contribution to violate rule 2. Speculation itself is fine, but speculation cloaked as factual assertion is problematic.
+- Not sufficiently **connected to reality**. For discussions in the subreddit to be constructive, it is necessary for posts and comments to reflect a base level of respect for some fundamental aspects of the world we live in. For this reason, rule 2 generally prohibits outlandish "conspiracy theory"-type content that promotes or assumes ideas that are so unfounded or unjustifiable as to make constructive discussion impossible. The expectation is that users make sincere efforts to justify fact-based claims by reference to primary sources. This doesn't mean every claim ever made must be rigorously sourced, of course. But it does mean that persistent refusal to explain or justify an assertion could cause that contribution to violate rule 2. Speculation itself is fine, but speculation cloaked as factual assertion is problematic.
 
 ## Rule 3: Don't ask for professional advice
 
@@ -52,20 +52,20 @@ If you *are* a licensed professional, it may be useful to think of discussions w
 
 ## Rule 5: No solicitation or promotion
 
-Many of the discussions on this sub will inevitably involve praising and criticizing for-profit businesses, and we don't want to prevent users from engaging in those kinds of discussions. However, there will also inevitably be occasions when some users have conflicts of interest. These conflicts may be as small as a referral code incentive, or as significant as a professional advisor wanting to use the sub to solicit new clients.
+Many of the discussions on this sub will inevitably involve praising and criticizing for-profit businesses, and we don't want to prevent users from engaging in those kinds of discussions. However, there will also inevitably be occasions when some users have conflicts of interest. These conflicts may be as small as a referral code incentive, or as significant as a business operator wanting to use the sub to solicit new clients.
 
 Due to the anonymous nature of reddit and our aversion to any kind of identity verification, it is not feasible for the moderators to ensure that all contributions to the sub are 100% free of any conflict of interest. So our only real option is to remove any content that *looks likely* to have been posted for the purposes of seeking financial gain. Our judgement in this matter is unlikely to be perfect, but we will be transparent about our decisions and if you think we are removing too many false positives or not removing enough false negatives, we welcome your feedback.
 
-Examples of the types of content that will generally be prohibited under this rule include:
+Examples of the types of content that will generally be prohibited under this rule:
 
 - Referral codes and affiliate links
-- Requests for DMs/emails/calls/etc. (either from clients or from businesses)
+- Requests for DMs/emails/calls/etc.
 - Links to webforms/surveys/petitions
 - Exaggerated/imprecise criticism of a business (e.g., "XYZ are the absolute worst!")
 - Exaggerated/imprecise praise of a business (e.g., "XYZ are the best in the country!")
 - Unexplained calls to action (e.g. "BUY XYZ NOW!").
 
-Note that there is [a page in the sub's wiki](/other/pros) where users can add links to English-friendly Japanese finance professionals. If you fit that description, feel free to add yourself to the wiki, but please refrain from promoting yourself or your employer elsewhere in the sub.
+Note that there is [a page in the sub's wiki](/other/pros) where users can add links to relevant professionals. If you fit that description, feel free to add yourself to the wiki, but please refrain from promoting yourself or your employer elsewhere in the sub.
 
 ## Rule 6: Use the "US Taxpayer" user flair if applicable
 
