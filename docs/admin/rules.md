@@ -72,3 +72,15 @@ Note that there is [a page in the sub's wiki](/other/pros) where users can add l
 As described on the IRS's website [here](https://www.irs.gov/individuals/international-taxpayers/classification-of-taxpayers-for-us-tax-purposes), there are two types of entities under US tax law: "US persons" and "foreign persons". Being a "US person" under US tax law will significantly affect your approach to personal finance as a Japanese resident. So to streamline discussions within the sub, we are asking users who believe themselves to be "US persons" under US tax law to attach the "US Taxpayer" flair to their username. (The flair will be visible only within this sub.)
 
 To attach the flair, use the "Community options" menu on the sub's homepage (or equivalent, depending on how you are accessing reddit). If you believe yourself to be a "US person" but would prefer not to publicly declare your status as such, please refrain from asking or expecting users to provide you with information applicable to "US persons". If you do not have the "US Taxpayer" flair and you ask for information applicable to "US persons", we may remove your post or comment until you attach the appropriate flair.
+
+## Rule 7: Don't cite LLMs
+
+While LLMs (ChatGPT, etc.) can be powerful tools in the right hands, they are not reliable sources of information when it comes to the types of issues typically discussed in this subreddit. Users come to r/JapanFinance to discuss personal finance topics with other humans, not to waste their time replying to LLM-generated content.
+
+We understand that users may still choose to use LLMs as part of their research. Such use is not prohibited by Rule 7, of course. However, **Rule 7 prohibits posts and comments that defer to LLM-generated content or cite LLM-generated content**.
+
+This prohibition covers posts and comments that do not *explicitly* rely on LLM output, if it appears to moderators that the author is implicitly relying on LLM-generated content or that the post/comment itself includes LLM-generated content.
+
+We appreciate that there is a grey area when it comes to detecting reliance on LLM-generated content. But we have reached the conclusion that it will be better for the sub if moderators attempt to navigate their way through the grey area (removing posts/comments that appear to rely on LLM-generated content), instead of abandoning the field and allowing LLM-generated content to flourish.
+
+Rule 7 does not go so far as to prohibit any reference to the existence of LLMs. For example, we will not remove posts or comments that recommend using an LLM for a specific purpose, as long as the recommendation is sufficiently specific and does not sound like an advertisement. Blanket recommendations (e.g., "ChatGPT can answer all your questions") will be removed under Rule 7.
