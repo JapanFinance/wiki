@@ -132,6 +132,16 @@ However, only taxes that are comparable in nature to the japanese tax can be off
 
 > Estate taxes (i.e., taxes on the total value of the estate, paid by the estate) can be used to offset a Japanese inheritance tax liability. However, since the Canadian tax you are referring to is an income tax rather than an estate tax, it cannot be used to offset a Japanese inheritance tax liability. 
 
+## Capital Gain Tax impact
+
+Assets are passed on at the time of death. However from Capital Gain tax perspective, the deceased acquisition cost is passed on, not the market value at the time of death that is used for the inheritance tax basis.
+
+This means if assets are sold later on, either by the estate as part of the inheritance, or by the person inheriting, they will have to pay capital gain tax on the appreciation. If this is done by the estate as part of liquidating the deceased assets, due to other inheritors will to sell them for example, it might be unavoidable to have capital gain tax liability. 
+
+Sometimes the deceased acquisition cost can be difficult to establish (ex old house), or find sufficient documentation of (multiple bitcoin transactions), and in that case 5% of the sale value can be retained instead. With long holding period, such as a housing both many decades latter, or brutal appreciation (such as virtual currency), this means steep Capital Gain tax might be due for significant share of the asset value. Paid inheritance tax is not deductible.
+
+To avoid or manage this, one may wish to receive in the will assets such as cash for example, rather than shares in real estate that would be sold. Preparing acquisition cost documentation in advance can also help support the future sale.
+In addition, once assets have been received from the estate, there is no capital gain tax to pay as long they are not being sold, so assets that one would like to keep long term can be considered safer choices of assets to receive.
 
 ## Optimization strategies
 
