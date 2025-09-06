@@ -70,11 +70,12 @@ A NISA has three contribution limits.
 - An annual limit on the tsumitate portion of the NISA
 - A lifetime limit for total contributions in a NISA
 
-Every year, an investor can contribute up to JPY 2,400,000 in the regular portion of their NISA, as well as up to JPY 1,200,000 in the tsumitate portion of their NISA. The annual limit
-is reset every calendar year. However, the NISA also has a lifetime contribution limit of JPY 12,000,000 for the regular and 6,000,000 for the tsumitate portion. The lifetime contribution limit can be replenished the year following selling assets in your NISA. It will be replenished by the book value of the sold assets (i.e. what you originally paid for the assets, regardless of their value at the time of sale).
+Every year, an investor can contribute up to JPY 2,400,000 in the regular portion of their NISA, as well as up to JPY 1,200,000 in the tsumitate portion of their NISA. The annual limit is reset every calendar year. 
+However, the NISA also has a lifetime contribution limit of JPY 12,000,000 for the regular and 6,000,000 for the tsumitate portion. The lifetime contribution limit can be replenished the year following selling assets in your NISA. It will be replenished by the book value of the sold assets (i.e. what you originally paid for the assets, regardless of their value at the time of sale).
 
-A NISA can also be transferred between different financial institutions. 
+A NISA can also be transferred between different financial institutions once a year.
 
+NISA is only available to residents, so must be closed when leaving.
 
 See the [NISA FAQ Thread](https://www.reddit.com/r/JapanFinance/comments/181kb33/new_nisa_questions_thread/) for details on the NISA.
 
