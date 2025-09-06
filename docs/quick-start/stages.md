@@ -1,6 +1,6 @@
 # Different stages of personal finance in Japan
 
-Quick checklist of things you may want to have on your radar, linking to other parts of the wiki. The stages are purely indicative.
+Quick checklist of things you may want to have on your radar. The stages are purely indicative.
 
 ## Before you move
 
@@ -11,14 +11,14 @@ Quick checklist of things you may want to have on your radar, linking to other p
 - getting cash
 - phone
 - bank account
-- temporary housing
+- choosing the right housing
 
 ## First months
 
 - understanding your salary
 - renting
 - budgeting
-- saving on moving in costs
+- saving on moving-in costs
 - opening accounts
 
 ## First year
@@ -26,20 +26,21 @@ Quick checklist of things you may want to have on your radar, linking to other p
 - career
 - filling a tax return
 - savings strategy
-
-understanding the common tax deductions
+- credit card
+- understanding the common tax deductions
 - life insurance
 - medical-related cost
-- furusato nozei
+- furusato nozei, ideco, Nisa
 - dependents in Japan and abroad
-- house loan
 
 ## Long term living
 
-- Investing : iDeco and Nisa
+- Investing for the long term : iDeco and Nisa
+- house loan
 - buying real estate
 - inheritance
 - dealing with life events
+- children
 
 ## Leaving Japan
 
