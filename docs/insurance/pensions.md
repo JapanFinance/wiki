@@ -73,7 +73,10 @@ Bob is in Japan for 25 years (300 months). He is a good resident, and follows Ja
 Bob’s National Pension Annuity will be:
 780,900/480 x 300 = 488,062 JPY per year
 
-(worth noting that those enrolled on Category 1 ONLY, can increase their National Pension annuity by paying in Fuka Nenkin and Nenkin Kikin, ReitreJapan did a post on them here: https://www.retirejapan.com/blog/overpaying-kokumin-nenkin/)
+**Fuka Nenkin and Nenkin Kikin**
+For those enrolled on Category 1 ONLY, they can increase their National Pension annuity by paying in Fuka Nenkin and Nenkin Kikin. ReitreJapan did a post on them here: https://www.retirejapan.com/blog/overpaying-kokumin-nenkin/
+Fuka Nenkin allows you to pay 400yen/month extra, and you will get 200yen/year for every month that you paid into it. 
+So if Bob opts into the fuka nenkin system, he will pay 400 yen * 300 months = 120,000 yen over 25 years, and he will get 200 yen * 300 months = 60,000 yen every single year on top of the 488,062yen that he is receiving already.
 
 That is not much right? This is where we lead onto the next Category….
 
