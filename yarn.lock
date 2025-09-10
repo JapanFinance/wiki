@@ -241,32 +241,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/cli@npm:^3.0.6":
-  version: 3.0.6
-  resolution: "@argos-ci/cli@npm:3.0.6"
+"@argos-ci/cli@npm:^3.0.7":
+  version: 3.0.7
+  resolution: "@argos-ci/cli@npm:3.0.7"
   dependencies:
-    "@argos-ci/core": "npm:4.1.2"
+    "@argos-ci/core": "npm:4.1.3"
     commander: "npm:^14.0.0"
     ora: "npm:^8.2.0"
     update-notifier: "npm:^7.3.1"
   bin:
     argos: ./bin/argos-cli.js
-  checksum: 10c0/bef182705832e9f14d933b170298e39584a12024deccf1a701bdd24b9ccb4dbc17c4bc094f83abc56268da3db22541f002a899f473664e40daa747b98bb07f67
-  languageName: node
-  linkType: hard
-
-"@argos-ci/core@npm:4.1.2":
-  version: 4.1.2
-  resolution: "@argos-ci/core@npm:4.1.2"
-  dependencies:
-    "@argos-ci/api-client": "npm:0.11.0"
-    "@argos-ci/util": "npm:3.1.0"
-    convict: "npm:^6.2.4"
-    debug: "npm:^4.4.0"
-    fast-glob: "npm:^3.3.3"
-    sharp: "npm:^0.34.3"
-    tmp: "npm:^0.2.3"
-  checksum: 10c0/b3d5c8b9176fa8ebe5f5293c4d9775b75f025c0feed72b5e144bb815cb571bba961673143e71e2462bb153141b059af0b0e00864bb18b94583667be7b3a5152e
+  checksum: 10c0/c8c6bd10a3a063cfa42d94aee157f6619b72f2b73f91c15ed04b57c113656c9a8e7ce13ee19a21f465a784f8f04abfbb797fe2787d63db588e4465d7b3dc395a
   languageName: node
   linkType: hard
 
@@ -15315,7 +15300,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
-    "@argos-ci/cli": "npm:^3.0.6"
+    "@argos-ci/cli": "npm:^3.0.7"
     "@argos-ci/playwright": "npm:^6.1.4"
     "@docusaurus/core": "npm:3.8.1"
     "@docusaurus/faster": "npm:^3.8.1"
