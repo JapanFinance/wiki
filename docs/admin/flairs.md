@@ -1,8 +1,6 @@
 # Post flair taxonomy
 
-*All non-qualified nouns are by default "Japanese" versions, ie "Income Tax" refers to Japanese Income Tax. 
-
-**Tax**
+*All non-qualified nouns are by default "Japanese" versions, ie "Income Tax" refers to Japanese Income Tax. Items are sorted roughly by anticipated frequency of use, and the topical themes are left as broad categories intentionally.
 
 * [Tax](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Tax%22)
 
@@ -25,8 +23,6 @@
 
 ---
 
-## Tax (US)
-
 * [Tax (US)](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Tax%20%28US%29%22)
 
   * [Filing Requirements](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Tax%20%28US%29%20%C2%BB%20Filing%20Requirements%22)
@@ -36,8 +32,6 @@
   * [Renouncing Citizenship](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Tax%20%28US%29%20%C2%BB%20Renouncing%20Citizenship%22)
 
 ---
-
-## Insurance
 
 * [Insurance](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Insurance%22)
 
@@ -54,8 +48,6 @@
 
 ---
 
-## Investments
-
 * [Investments](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Investments%22)
 
   * [Real Estate](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Investments%20%C2%BB%20Real%20Estate%22)
@@ -68,8 +60,6 @@
 
 ---
 
-## Business
-
 * [Business](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Business%22)
 
   * [Invoicing](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Business%20%C2%BB%20Invoicing%22)
@@ -79,8 +69,6 @@
   * [Corporate Finance (JGAAP, governance, Kansayaku)](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Business%20%C2%BB%20Corporate%20Finance%20%28JGAAP%2C%20governance%2C%20Kansayaku%29%22)
 
 ---
-
-## Personal Finance
 
 * [Personal Finance](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Personal%20Finance%22)
 
@@ -105,8 +93,6 @@
 
 ---
 
-## Fintech
-
 * [Fintech](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Fintech%22)
 
   * [eMoney (おサイフケータイ / QR)](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Fintech%20%C2%BB%20eMoney%20%28%E3%81%8A%E3%82%B5%E3%82%A4%E3%83%95%E3%82%B1%E3%83%BC%E3%82%BF%E3%82%A4%20%2F%20QR%29%22)
@@ -116,7 +102,7 @@
 
 ---
 
-## Other
+**Other**
 
 * [Idea Nouveau](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Idea%20Nouveau%22)
 * [Real Estate Purchase Journey](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Real%20Estate%20Purchase%20Journey%22)
