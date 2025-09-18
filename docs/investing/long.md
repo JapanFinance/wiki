@@ -39,18 +39,23 @@ Financial advisors and other investment providers, are usually not recommended. 
 
 ### Tax advantaged Accounts : iDeCo
 
-[iDeco](https://www.ideco-koushiki.jp/english/) is a very popular, heavily tax-advantaged investment account.
+[iDeco](https://www.ideco-koushiki.jp/english/) is a very popular, heavily tax-advantaged retirement investment account available to anyone enrolled in the Japanese pension system.
 
-Disadvantages includes funds locked until 60 years old, and the fund choices are restricted per provider. As of time of writing, the popular eMaxis Slim All Country fund is available
-on Monex iDeCo. Various other iDeCo providers have their own globally diversified mutual funds.
+Disadvantages include contributions being locked until at least 60 years old and fund choice tending to be somewhat limited compared with NISA.
+As of time of writing, the popular eMaxis Slim All Country fund is available on Monex iDeCo. Various other iDeCo providers have their own globally diversified mutual funds.
+Funds can be switched and rebalanced within iDeCo accounts and iDeCo accounts can be transferred between providers.
 
-Contributions are tax free, and gains are also tax free for several years. Contributions maximum varies between 0.1 and 0.8 MJPY per year depending on eligibility.
+The minimum contribution for those wishing to enrol is 5,000 JPY per month.
+As of 2025, maximum contributions range from 20,000 to 68,000 JPY per month depending on eligibility. Maximums for employees are set to increase from 2027.
+Providers deduct an initial fee for enrolment and small fees from monthly contributions, with online brokerages tending to have the lowest fees.
 
-Note that some company DC or DB pension plan interfere with eligibility for iDeCo. Your ability to use the iDeCo will depend on the implementation done by your employer, 
-and opening an iDeCo normally requires asking your employer HR to fill paperwork. Depending on your DC plan, it might also not be beneficial to change from a corporate 
-DC to an iDeCo. 
+Contributions are tax deductible. Those enrolled as individuals will receive a postcard at the end of the year to be submitted with their end of year tax adjustment form or with their income tax return.
 
-iDeco [will be changed from 2022](https://www.aon.com/getmedia/bdedf2c7-4338-4dee-bec4-48cfcd303ffc/20200828.aspx), extending age and contributions.
+Between the ages of 60 and 75, users can choose whether to withdraw as a lump sum, receive an annuity or opt for a combination of the two.
+When withdrawing as a lump sum, a retirement income deduction is applied based on the number of years of iDeCo enrolment (0.4M JPY for each of the first 20 years and 0.7M JPY for each additional year). Additional lump sum withdrawals are taxed at 50% of the user's income tax and residence tax rates.
+When taken as an annuity, iDeCo is subject to the same taxes as public pensions.
+
+Note that some company DC or DB pension plans interfere with eligibility for iDeCo. Your ability to use iDeCo will depend on the implementation done by your employer, and opening an iDeCo normally requires asking your employer HR to fill paperwork. Depending on your DC plan, it might also not be beneficial to change from a corporate DC to an iDeCo. 
 
 See [this post](https://www.reddit.com/r/JapanFinance/comments/16d3n78/death_and_dc_pension_benefits/) about the beneficiary of your DC account.
 
