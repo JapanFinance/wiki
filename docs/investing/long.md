@@ -42,17 +42,18 @@ Financial advisors and other investment providers, are usually not recommended. 
 [iDeco](https://www.ideco-koushiki.jp/english/) is a very popular, heavily tax-advantaged retirement investment account available to anyone enrolled in the Japanese pension system.
 
 Disadvantages include contributions being locked until at least 60 years old and fund choice tending to be somewhat limited compared with NISA.
-As of time of writing, the popular eMaxis Slim All Country fund is available on Monex iDeCo. Various other iDeCo providers have their own globally diversified mutual funds.
-Funds can be switched and rebalanced within iDeCo accounts and iDeCo accounts can be transferred between providers.
+As of time of writing, the popular eMaxis Slim All Country fund is available on Monex iDeCo, while SBI for example would have the version excluding Japan. Various other iDeCo providers have their own globally diversified mutual funds.
+Funds can be switched and re-balanced within iDeCo accounts and iDeCo accounts can be transferred between providers.
 
-The minimum contribution for those wishing to enrol is 5,000 JPY per month.
+The minimum contribution for those wishing to enroll is 5,000 JPY per month.
 As of 2025, maximum contributions range from 20,000 to 68,000 JPY per month depending on eligibility. Maximums for employees are set to increase from 2027.
-Providers deduct an initial fee for enrolment and small fees from monthly contributions, with online brokerages tending to have the lowest fees.
+Providers deduct an initial fee for enrollment and small fees from monthly contributions, with online brokerages tending to have the lowest fees.
 
-Contributions are tax deductible. Those enrolled as individuals will receive a postcard at the end of the year to be submitted with their end of year tax adjustment form or with their income tax return.
+Contributions are tax deductible, an important benefit compared to Nisa. Those enrolled as individuals will receive a postcard at the end of the year to be submitted with their end of year tax adjustment form or with their income tax return.
 
 Between the ages of 60 and 75, users can choose whether to withdraw as a lump sum, receive an annuity or opt for a combination of the two.
-When withdrawing as a lump sum, a retirement income deduction is applied based on the number of years of iDeCo enrolment (0.4M JPY for each of the first 20 years and 0.7M JPY for each additional year). Additional lump sum withdrawals are taxed at 50% of the user's income tax and residence tax rates.
+When withdrawing as a lump sum, a retirement income deduction is applied based on the number of years of iDeCo enrolment. That deduction is 0.4M JPY for each of the first 20 years and 0.7M JPY for each additional year, making it even more attractive to start ideco as early as possible, even if just for the minimum 5000 JPY per month. 
+Additional lump sum withdrawals are taxed at 50% of the user's income tax and residence tax rates.
 When taken as an annuity, iDeCo is subject to the same taxes as public pensions.
 
 Note that some company DC or DB pension plans interfere with eligibility for iDeCo. Your ability to use iDeCo will depend on the implementation done by your employer, and opening an iDeCo normally requires asking your employer HR to fill paperwork. Depending on your DC plan, it might also not be beneficial to change from a corporate DC to an iDeCo. 
