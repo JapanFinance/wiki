@@ -41,7 +41,7 @@ If you do not use onestop, you must save the receipts that are sent to you for t
 
 If you do not use onestop, you should save the hanko'd receipts that the municipalities send to you for tax filing time.
 
-New in 2021, most Furusato-Nozei shopping sites will send you a single consolidated reporting statement for your taxes.  See [this post](https://www.reddit.com/r/JapanFinance/comments/qvpj2u/new_consolidated_furusato_nozei_statements/) for more information.
+New in 2021, most Furusato-Nozei shopping sites will send you a single consolidated reporting statement for your taxes.  See [this post](https://www.reddit.com/r/JapanFinance/comments/qvpj2u/new_consolidated_furusato_nozei_statements/) for more information. The xml report will usually be avaible to download at the begining of the following year, and can be uploaded to eTax if you declare digitally. Otherwise you can ask those websites for a consolidated paper statement in case you do a paper declaration. In both cases, the municipalities donation paper certificates are not needed. [2025-09 comment](https://www.reddit.com/r/JapanFinance/comments/1nk0i5j/comment/nez9m9n/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 * [Step by Step guide to tax filing if you cannot do one-stop](https://www.satofull.jp/static/kakutei_shinkoku.php)
 * [How to verify your residence tax discount the next summer](https://web.archive.org/web/20201125192309/https://blog.furusatohonpo.jp/2019/06/12/furuatotax-juminzei/)
