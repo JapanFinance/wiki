@@ -154,7 +154,9 @@ Kabu.com also offers a [credit card](https://kabu.com/company/lp/lp200.html), wh
 
 [Interactive Brokers Japan NISA](https://www.interactivebrokers.co.jp/en/accounts/nisa-accounts.php) - link to [FAQ](https://www.interactivebrokers.co.jp/en/support/faqs.php).
 
-Offers the following US ETFs in growth (成長) NISA: GLD, QQQ, SPY, SPYD, VOO, VT, VTI, VXUS
+Offers the following US ETFs in growth (成長) NISA: GLD, QQQ, SPY, SPYD, VOO, VT, VTI, VXUS.
+
+Additionally, IBSJ offers a very limited selection of Japanese domestic mutual funds which can be used for growth as well as tsumitate NISA. 
 
 ## Products
 
