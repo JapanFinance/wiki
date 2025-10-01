@@ -150,6 +150,12 @@ Kabu.com also offers a [credit card](https://kabu.com/company/lp/lp200.html), wh
 
 [Linking](https://kabu.com/sp/item/bab/jbk/program/default.html) your Kabu.com account with your AU Jibun Bank account also provides you with a bonus 0.099% on your bank deposits.
 
+### Providers : Interactive Brokers Japan
+
+[Interactive Brokers Japan NISA](https://www.interactivebrokers.co.jp/en/accounts/nisa-accounts.php) - link to [FAQ](https://www.interactivebrokers.co.jp/en/support/faqs.php).
+
+Offers the following US ETFs in growth (成長) NISA: GLD, QQQ, SPY, SPYD, VOO, VT, VTI, VXUS
+
 ## Products
 
 [2021-05 Popular investment products](https://www.reddit.com/r/JapanFinance/comments/nlukfg/where_you_guys_putting_your_money_right_now/). [eMaxis Slim](https://emaxis.jp/lp/slim/pr1/index.html) is a popular range of product, with the most popular being the [Global Equity (all countries))](https://emaxis.jp/fund/253425.html), based on the MSCI World index (see [comment on index and its currency basket](https://www.reddit.com/r/JapanFinance/comments/r7l9ce/comment/hn6wuzl/?utm_source=share&utm_medium=web2x&context=3) ).
