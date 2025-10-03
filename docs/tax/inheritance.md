@@ -1,4 +1,4 @@
-# Inheritance Tax
+# Inheritance Tax (相続税)
 
 Relevant threads are found under the flair [Inheritance / Estate](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Tax%20%C2%BB%20Inheritance%20%2F%20Estate%22), also check [Personal Finance » Inheritance Planning](https://www.reddit.com/r/JapanFinance/search?q=flair_name%3A%22Personal%20Finance%20%C2%BB%20Inheritance%20Planning%22&restrict_sr=1).
 
