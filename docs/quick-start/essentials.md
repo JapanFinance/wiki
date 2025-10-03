@@ -4,9 +4,9 @@ This page contains short summaries of some of the key aspects of personal financ
 
 ## Taxes on income
 
-- Japan taxes its residents' income in two distinct ways: [income tax](/tax/income) and [residence tax](/tax/residence). Income tax is a national tax administered by the National Tax Agency, while residence tax is a local tax administered by wards/cities/towns (municipalities).
+- Japan taxes its residents' income in two distinct ways: [income tax \(所得税\)](/tax/income) and [residence tax](/tax/residence). Income tax is a national tax administered by the National Tax Agency, while residence tax (住民税) is a local tax administered by wards/cities/towns (municipalities).
 
-- The tax year is the *calendar year* (January—December), and individuals' annual tax liability is calculated on the basis of their total annual income.
+- The tax year is the *calendar year* (January—December), and individuals' annual tax liability is calculated on the basis of their total annual income. 
 
 - Income tax is paid in two main ways: by employers/clients withholding income tax from payments they make to individuals, and by individuals being issued with a tax bill upon filing their annual tax return.
 
@@ -43,7 +43,7 @@ This page contains short summaries of some of the key aspects of personal financ
 
 - When a person works in exchange for money, they do so as either an **employee** or as a **service provider** (business operator). This distinction dramatically affects the rights of the worker, as well as the worker's tax liability, health insurance, unemployment insurance, pension entitlements, etc.
 
-- Businesses have strong incentives to illegally classify employees as "service providers" (e.g., gyomu itaku).
+- Businesses have strong incentives to illegally classify employees as "service providers" (e.g., gyomu itaku (業務委託)).
     - The level of control that a business has over the worker's activities is the primary factor affecting whether an employee is being illegally classified as a service provider.
     - Classifying an employee as a service provider attracts criminal penalties, but the police may be reluctant to get involved in complex cases.
 
@@ -60,21 +60,21 @@ This page contains short summaries of some of the key aspects of personal financ
 
 ---
 
-## Shakai hoken vs. national health/pension
+## Shakai hoken (社会保険) vs. Health Insurance (保険) + Pension (年金) 
 
 - All Japanese residents must be enrolled in public [health insurance](/insurance/health). Of adult residents aged 20-59:
-    - About 80% are insured by a provider of "**employees' health insurance**".
-    - About 20% are insured by their municipal government ("**national health insurance**" or "NHI").
+    - About 80% are insured by a provider of "**Employees' Health Insurance**" (EHI, 健康保険).
+    - About 20% are insured by their municipal government (**National Health Insurance**, NHI, 国民健康保険).
 
-- Employees' health insurance provides additional benefits compared to NHI. For example, only employees' health insurance offers maternity pay and recovery of lost wages due to injury/illness.
+- Employees' health insurance (EHI) provides additional benefits compared to NHI. For example, only employees' health insurance offers maternity pay and recovery of lost wages due to injury/illness.
 
 - All Japanese residents aged 20-59 must be enrolled in the public [pension](/insurance/pensions) scheme. Of those:
-    - About 60% are enrolled in the "**employees' pension**".
-    - About 40% are enrolled in the "**national pension**".
+    - About 60% are enrolled in the "**employees' pension insurance**" (EPI, 厚生年金).
+    - About 40% are enrolled in the "**national pension**" (国民年金).
 
 - The employees' pension is technically a supplemented version of the national pension. Accordingly, it is more expensive than the national pension but recipients receive a larger benefit.
 
-- The combination of employees' health insurance and the employees' pension is colloquially referred to as *shakai hoken* (social insurance).
+- The combination of employees' health insurance and the employees' pension is colloquially referred to as *shakai hoken* (Social Insurance, 社会保険).
     - Generally, employees' health insurance and pension come as a package and it is not possible to have one without the other. One exception to this is when employees voluntarily choose to remain enrolled in employees' health insurance after they have stopped working. Around 5% of adults aged 20-59 are in this situation.
     - Dependents of people enrolled in employees' health insurance are entitled to *free* employees' health insurance and *free* national pension enrolment (limited to spouses). Around 15% of all adults aged 20-59 are in this situation.
 
@@ -87,13 +87,15 @@ This page contains short summaries of some of the key aspects of personal financ
 
 - Enrolment in shakai hoken and national health/pension is determined on a daily basis, but premiums are charged on a monthly basis. Individuals must pay health/pension premiums to whoever their insurer/pension provider is on the last day of each month.
 
+- [Japan Pension Service's Guide to Shakai Hoken](https://www.nenkin.go.jp/international/japanese-system/employeespension/employee.html)
+
 ---
 
 ## Payment methods
 
 Sources for the statistics quoted in this section are provided at the linked wiki pages.
 
-- The majority of household expenses in Japan are paid electronically. However, the proportion of expenses that are paid in [**cash**](/handling/cash#wiki_prevalence) (38% by value) is very high relative to other developed countries.
+- The majority of household expenses in Japan are paid electronically. However, the proportion of expenses that are paid in [**cash (現金)**](/handling/cash#wiki_prevalence) (38% by value) is very high relative to other developed countries.
     - The average amount of cash that adults carry in Japan (~13,000 yen) is significantly higher than in many other places.
     - 66% of in-person retail transactions are cash transactions.
     - 16% of online transactions are cash transactions (e.g., COD).
@@ -105,13 +107,13 @@ Sources for the statistics quoted in this section are provided at the linked wik
     - If you are willing to pay attention to campaigns and change payment methods often, it is possible to achieve average returns of 2-3% on all purchases.
     - While credit cards account for 30% of in-person purchases by value, they account for only 15% of all in-person transactions, implying that they are more commonly used for expensive purchases.
 
-- [**Direct debit**](/handling/banks#wiki_direct_debit) is the second most common cashless payment method (21%).
+- [**Direct debit (口座振替)**](/handling/banks#wiki_direct_debit) is the second most common cashless payment method (21%).
     - The purchaser authorizes the vendor to withdraw money automatically from the purchaser's bank account.
     - The cost of the transfer is typically borne by the vendor.
     - Many vendors use the "Pay-easy" service to execute direct debits, but some popular non-traditional banks (e.g., Shinsei, Sony, SBI, Aeon, Seven) do not subscribe to Pay-easy, which means vendors will often refuse to debit accounts at those banks.
     - Direct debit is mainly used for stable, regular expenses such as rent, utility bills, and insurance.
 
-- [**Bank transfer**](/handling/banks#wiki_bank_transfers) is the third most common cashless payment method (5%).
+- [**Bank transfer (振り込み, often shortened to 振込)**](/handling/banks#wiki_bank_transfers) is the third most common cashless payment method (5%).
     - The purchaser initiates a transfer of funds from their own bank account into the vendor's account.
     - The cost of the transfer is typically borne by the purchaser, but many banks offer one or more free bank transfers per month, depending on the account-holder's "status" (average balance, whether they have a mortgage, whether they hold an investment account, etc.).
     - Bank transfers are typically used for expensive purchases (vehicles, commercial services, rental deposits, etc.).
@@ -141,7 +143,7 @@ Sources for the statistics quoted in this section are provided at the linked wik
 
 ## Other taxes
 
-- Japan has a significant [**inheritance tax**](/inheritance).
+- Japan has a significant [**inheritance tax (相続税)**](/tax/inheritance/).
     - Inherited property located in Japan is *always* taxed.
     - Deceased Japanese residents' overseas assets are taxed unless the deceased held a "Table 1" visa (any visa other than spouse/child/PR/LTR) *and* the heir is either a non-resident or a "**temporary foreigner**" (less than 10 years' residence and a Table 1 visa).
     - Overseas assets inherited by Japanese residents are taxed unless the resident is a "temporary foreigner".
@@ -182,7 +184,7 @@ Sources for the statistics quoted in this section are provided at the linked wik
 
 - Japan has two key tax-advantaged investment vehicles: [**iDeCo**](/investing/long#wiki_ideco) and NISA.
     - iDeCo is a privately-managed defined-contribution pension scheme. Contributions are fully tax deductible and withdrawals upon retirement are taxed very lightly. Investment options within iDeCo are limited to low-risk products.
-    - NISA is a type of investment account within which all capital gains are tax-free. There are two types of NISA accounts: [**ordinary NISA**](/investing/short#wiki_ordinary_nisa) (5-year limit, maximum of 1.2 million yen/year, high-risk products available) and [**tsumitate NISA**](/investing/long#wiki_tsumitate_nisa) (20-year limit, maximum of 400k yen/year, medium/low-risk products only). 
+    - NISA is a type of investment account within which all capital gains are tax-free. There are two components of NISA accounts: [**ordinary NISA (成長NISA)**](/investing/short#wiki_ordinary_nisa) (5-year limit, maximum of 1.2 million yen/year, high-risk products available) and [**tsumitate NISA (つみたてNISA, also written as 積立NISA)**](/investing/long#wiki_tsumitate_nisa) (20-year limit, maximum of 400k yen/year, medium/low-risk products only). 
 
 - **Medical expenses** in excess of 100k yen per year are tax deductible. It's not possible for employers to process this deduction on behalf of their employees, though, so employees who want to claim this deduction must file a tax return themselves.
 
@@ -192,4 +194,4 @@ Sources for the statistics quoted in this section are provided at the linked wik
 
 - Income from **renting out land and buildings** can generate a taxable loss due to amortization of the property's acquisition costs. Such losses can be offset against other types of income to reduce the taxpayer's overall tax burden.
 
-- [**Furusato nozei**](/tax/residence/furusato-nozei) is a scheme that allows individuals to redirect their taxes to specific municipalities in return for "gifts" of local products. It costs 2,000 yen to participate in the scheme, regardless of how much tax is redirected (or the total value of "gifts" received), though there is an upper limit to the proportion of a person's tax bill that can be profitably redirected.
+- [**Furusato nozei (ふるさと納税)**](/tax/residence/furusato-nozei) is a scheme that allows individuals to redirect their taxes to specific municipalities in return for "gifts" of local products. It costs 2,000 yen to participate in the scheme, regardless of how much tax is redirected (or the total value of "gifts" received), though there is an upper limit to the proportion of a person's tax bill that can be profitably redirected.
