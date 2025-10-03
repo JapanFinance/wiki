@@ -4,7 +4,7 @@ This page contains short summaries of some of the key aspects of personal financ
 
 ## Taxes on income
 
-- Japan taxes its residents' income in two distinct ways: [income tax \(所得税\)](/tax/income) and [residence tax](/tax/residence). Income tax is a national tax administered by the National Tax Agency, while residence tax (住民税) is a local tax administered by wards/cities/towns (municipalities).
+- Japan taxes its residents' income in two distinct ways: [income tax \(所得税\)](/tax/income) and [residence tax \(住民税\)](/tax/residence). Income tax is a national tax administered by the National Tax Agency, while residence tax is a local tax administered by wards/cities/towns (municipalities).
 
 - The tax year is the *calendar year* (January—December), and individuals' annual tax liability is calculated on the basis of their total annual income. 
 
@@ -60,7 +60,7 @@ This page contains short summaries of some of the key aspects of personal financ
 
 ---
 
-## Shakai hoken (社会保険) vs. Health Insurance (保険) + Pension (年金) 
+## Shakai hoken (社会保険) vs. Individual Health Insurance (国民健康保険) + Pension (国民年金) 
 
 - All Japanese residents must be enrolled in public [health insurance](/insurance/health). Of adult residents aged 20-59:
     - About 80% are insured by a provider of "**Employees' Health Insurance**" (EHI, 健康保険).
