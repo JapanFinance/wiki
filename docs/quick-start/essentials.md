@@ -150,28 +150,28 @@ Sources for the statistics quoted in this section are provided at the linked wik
     - There are significant tax-free allowances that ensure the vast majority of heirs (more than 90%) pay no inheritance tax.
     - Japanese nationals must live outside Japan for *10 years* to escape full inheritance tax liability.
 
-- To prevent inheritance tax evasion, Japan also has a significant [**gift tax**](/tax/gift).
+- To prevent inheritance tax evasion, Japan also has a significant [**gift tax（譲渡税）**](/tax/gift).
     - The **recipient** has full responsibility for declaring and paying tax on the gift. 
     - There is no blanket exemption for spouses or family members. In practice, this makes things like shared bank accounts and children's trust funds quite risky.
     - There is an important exemption to gift tax for "money spent on **living expenses** received from family members who have assumed responsibility for the recipient's living expenses".
     - The rules regarding the location of property and when it is taxable are the same as for inheritance tax (e.g., "temporary foreigners" don't owe gift tax on overseas assets).
 
-- Japan has a 10% [**sales tax**](/tax/sales) (8% on food sold for off-site consumption). Sales tax is normally collected and paid by vendors, but vendors with revenue of less than 10 million yen per year can choose not to collect sales tax.
+- Japan has a 10% [**sales tax（消費税）**](/tax/sales) (8% on food sold for off-site consumption). Sales tax is normally collected and paid by vendors, but vendors with revenue of less than 10 million yen per year can choose not to collect sales tax.
 
 - Vehicle ownership is taxed in two ways:
-    - A national [**weight tax**](/tax/other#wiki_weight_tax) of 0-35k yen/year (depending on the age, weight, and fuel-efficiency of the vehicle).
-    - A [**vehicle ownership tax**](/tax/other#wiki_ownership_tax):
+    - A national [**weight tax（重量税）**](/tax/other#wiki_weight_tax) of 0-35k yen/year (depending on the age, weight, and fuel-efficiency of the vehicle).
+    - A [**vehicle ownership tax（自動車税）**](/tax/other#wiki_ownership_tax):
         - For "kei" cars and motorcycles, this is a *municipal* tax of 2-10k yen/year.
         - For regular cars, this is a *prefectural* tax of 25-110k yen/year, depending on engine capacity.
 
-- Japan has an annual [**property tax**](/tax/other#wiki_property_tax) that applies to all land and buildings, as well as all depreciable assets owned by businesses.
+- Japan has an annual [**property tax（固定資産税）**](/tax/other#wiki_property_tax) that applies to all land and buildings, as well as all depreciable assets owned by businesses.
     - Property tax is administered by municipal governments and rates vary slightly.
     - The basic annual rate is 1.4% of the government-assessed value of the property, with an additional 0.3% payable on land and buildings located within urban planning zones.
     - There are significant exceptions for new residential buildings, and for land that has a residential building on it.
     - Government valuations of land and buildings tend to be around 30% lower than market value.
     - "Depreciable assets" does not include vehicles, and the depreciable assets within a single municipality are exempt from property tax if their combined value is less than 1.5 million yen.
 
-- There is a [**stamp duty**](/tax/other#wiki_stamp_duty) applicable to many types of contracts and official documents, including formal receipts for goods/services worth more than 50k yen. Though the stamp duty on most documents is quite cheap (e.g., 200 yen).
+- There is a [**stamp duty（印紙税）**](/tax/other#wiki_stamp_duty) applicable to many types of contracts and official documents, including formal receipts for goods/services worth more than 50k yen. Though the stamp duty on most documents is quite cheap (e.g., 200 yen).
 
 - Japan's public broadcaster, [**NHK**](/tax/other#wiki_nhk), is funded by a quasi-tax on the possession of "equipment capable of receiving the [TV] broadcasting provided by NHK" (effectively meaning a screen, a TV tuner, and an antenna—or access to an antenna connection).
     - The fee is 12-24k yen/year per household, depending on whether you are capable of receiving NHK's satellite channels.
@@ -188,9 +188,9 @@ Sources for the statistics quoted in this section are provided at the linked wik
 
 - **Medical expenses** in excess of 100k yen per year are tax deductible. It's not possible for employers to process this deduction on behalf of their employees, though, so employees who want to claim this deduction must file a tax return themselves.
 
-- A tax deduction is available for every family member with a low income for whose living expenses the taxpayer has assumed responsibility (other than children aged 0-15). This includes **dependents** living separately (even outside Japan), providing that the taxpayer is genuinely responsible for the dependent's living expenses.
+- A tax deduction is available for every family member with a low income for whose living expenses the taxpayer has assumed responsibility (other than children aged 0-15). This includes **dependents（扶養家族）** living separately (even outside Japan), providing that the taxpayer is genuinely responsible for the dependent's living expenses.
 
-- **Residential mortgages** attract a significant tax credit, roughly equivalent to 1% of the outstanding value of the loan for the first 10 years of the mortgage. Since residential mortgages at variable rates below 1% are relatively common, this tax credit will often completely offset the mortgagor's borrowing costs.
+- **Residential mortgages（住宅ローン）** attract a significant tax credit, roughly equivalent to 1% of the outstanding value of the loan for the first 10 years of the mortgage. Since residential mortgages at variable rates below 1% are relatively common, this tax credit will often completely offset the mortgagor's borrowing costs.
 
 - Income from **renting out land and buildings** can generate a taxable loss due to amortization of the property's acquisition costs. Such losses can be offset against other types of income to reduce the taxpayer's overall tax burden.
 
