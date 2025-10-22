@@ -158,6 +158,14 @@ Offers the following US ETFs in growth (成長) NISA: GLD, QQQ, SPY, SPYD, VOO, 
 
 Additionally, IBSJ offers a very limited selection of Japanese domestic mutual funds which can be used for growth as well as tsumitate NISA. 
 
+### Providers: Sony Bank
+
+[Sony Bank](https://sonybank.jp/) is a bank. Generally, a bank based brokerage / investment trust account is not recommended due to the lack of fund diversity. However, Sony Bank notably has an [investment trust platform](https://sonybank.jp/products/fund/) which supports a [NISA](https://sonybank.jp/products/fund/49.html) and recently, they have added support for the ever-popular [eMaxis Slim series](https://sonybank.jp/products/fund/column/emaxisslim.html) of Japanese domestic mutual funds. 
+
+This makes Sony Bank somewhat unique among bank based investment accounts, and a valid contender to use. 
+
+While they do have English support for some aspects of their banking, none of their investment services are offered in English. 
+
 ## Products
 
 [2021-05 Popular investment products](https://www.reddit.com/r/JapanFinance/comments/nlukfg/where_you_guys_putting_your_money_right_now/). [eMaxis Slim](https://emaxis.jp/lp/slim/pr1/index.html) is a popular range of product, with the most popular being the [Global Equity (all countries))](https://emaxis.jp/fund/253425.html), based on the MSCI World index (see [comment on index and its currency basket](https://www.reddit.com/r/JapanFinance/comments/r7l9ce/comment/hn6wuzl/?utm_source=share&utm_medium=web2x&context=3) ).
