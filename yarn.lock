@@ -234,6 +234,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@argos-ci/api-client@npm:0.13.0":
+  version: 0.13.0
+  resolution: "@argos-ci/api-client@npm:0.13.0"
+  dependencies:
+    debug: "npm:^4.4.3"
+    openapi-fetch: "npm:^0.15.0"
+  checksum: 10c0/b2a4abfbb392b2bfe9f42a307522f1c2e6daf7b62bcfa63c928d12c006e36ab5d00ae405f79a87dce3fbf380c5d3b9513c8a8541c9cef1977adbec2eba0c799b
+  languageName: node
+  linkType: hard
+
 "@argos-ci/browser@npm:5.0.0":
   version: 5.0.0
   resolution: "@argos-ci/browser@npm:5.0.0"
@@ -270,16 +280,31 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/playwright@npm:^6.1.8":
-  version: 6.1.8
-  resolution: "@argos-ci/playwright@npm:6.1.8"
+"@argos-ci/core@npm:4.4.0":
+  version: 4.4.0
+  resolution: "@argos-ci/core@npm:4.4.0"
+  dependencies:
+    "@argos-ci/api-client": "npm:0.13.0"
+    "@argos-ci/util": "npm:3.1.1"
+    convict: "npm:^6.2.4"
+    debug: "npm:^4.4.3"
+    fast-glob: "npm:^3.3.3"
+    sharp: "npm:^0.34.4"
+    tmp: "npm:^0.2.5"
+  checksum: 10c0/956c31fbaa70f8421f5ec1fc7dab35f0850f235d3d7b128b05196e45cc50264995b65823c189f630cae2f312d94ab64d30a9f42e17bea29fb028eb31fb3c9748
+  languageName: node
+  linkType: hard
+
+"@argos-ci/playwright@npm:^6.2.0":
+  version: 6.2.0
+  resolution: "@argos-ci/playwright@npm:6.2.0"
   dependencies:
     "@argos-ci/browser": "npm:5.0.0"
-    "@argos-ci/core": "npm:4.2.0"
+    "@argos-ci/core": "npm:4.4.0"
     "@argos-ci/util": "npm:3.1.1"
     chalk: "npm:^5.6.2"
     debug: "npm:^4.4.3"
-  checksum: 10c0/d0396807e5af70ce806a68e192cefaf249ef933fe32a1cfee897584853975e31c9b4bedb1d7af440d625292b9a471fc99175c25e2c4fdb22866c0ec2d78c697a
+  checksum: 10c0/ed3d0b568b84547075edd0100c6f9011b2f4c840d0035fd66bb054dec0e4f3cdb510a2a6074405f8b0734c08fa442c34b1a24346f981f32d7578a9701c28947e
   languageName: node
   linkType: hard
 
@@ -15327,7 +15352,7 @@ __metadata:
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
     "@argos-ci/cli": "npm:^3.1.0"
-    "@argos-ci/playwright": "npm:^6.1.8"
+    "@argos-ci/playwright": "npm:^6.2.0"
     "@docusaurus/core": "npm:3.8.1"
     "@docusaurus/faster": "npm:^3.8.1"
     "@docusaurus/module-type-aliases": "npm:3.8.1"
@@ -17539,6 +17564,15 @@ __metadata:
   dependencies:
     openapi-typescript-helpers: "npm:^0.0.15"
   checksum: 10c0/e1b5375f0461969ff08e951b6308a115a582cca84ed3e0ecc2e41919d44a86038144a7a0b2e217ddb1bb7160a6779f459a2ca0224ff7634a9e89f19afe2a83db
+  languageName: node
+  linkType: hard
+
+"openapi-fetch@npm:^0.15.0":
+  version: 0.15.0
+  resolution: "openapi-fetch@npm:0.15.0"
+  dependencies:
+    openapi-typescript-helpers: "npm:^0.0.15"
+  checksum: 10c0/f6b90276569fbe33c8eac3f235617e5c5cbf99d5ac1bb49deecb279babb3ae411b5c7a39262416154e9a7d3c332f215cab410f28e94ecad6390e09c4a70d96dd
   languageName: node
   linkType: hard
 
