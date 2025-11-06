@@ -224,16 +224,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/api-client@npm:0.12.0":
-  version: 0.12.0
-  resolution: "@argos-ci/api-client@npm:0.12.0"
-  dependencies:
-    debug: "npm:^4.4.3"
-    openapi-fetch: "npm:^0.14.1"
-  checksum: 10c0/3a3ae7ac0a39dbc992ec937649c37c231d14057738a9d69cb6a40a787a762f746bc92d0255cf4b926e4a79273be7d7a01f8f144887e7128cdd9962daf8adeb5a
-  languageName: node
-  linkType: hard
-
 "@argos-ci/api-client@npm:0.13.0":
   version: 0.13.0
   resolution: "@argos-ci/api-client@npm:0.13.0"
@@ -244,6 +234,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@argos-ci/api-client@npm:0.14.0":
+  version: 0.14.0
+  resolution: "@argos-ci/api-client@npm:0.14.0"
+  dependencies:
+    debug: "npm:^4.4.3"
+    openapi-fetch: "npm:^0.15.0"
+  checksum: 10c0/ac09e83c4dddbfbe6301516e8b2a0b1d17af9e8b249a0748e967f758ed72b12128f431f6ac81978679eb9b1b03576b19933b29c3778c70674fba8a1ffd6fec9f
+  languageName: node
+  linkType: hard
+
 "@argos-ci/browser@npm:5.0.0":
   version: 5.0.0
   resolution: "@argos-ci/browser@npm:5.0.0"
@@ -251,32 +251,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/cli@npm:^3.1.0":
-  version: 3.1.0
-  resolution: "@argos-ci/cli@npm:3.1.0"
+"@argos-ci/cli@npm:^3.2.1":
+  version: 3.2.1
+  resolution: "@argos-ci/cli@npm:3.2.1"
   dependencies:
-    "@argos-ci/core": "npm:4.2.0"
-    commander: "npm:^14.0.1"
+    "@argos-ci/core": "npm:4.5.0"
+    commander: "npm:^14.0.2"
     ora: "npm:^9.0.0"
     update-notifier: "npm:^7.3.1"
   bin:
     argos: bin/argos-cli.js
-  checksum: 10c0/ca77838dd0b3a777f0949fd630cdb5202e6810de6f489e17633e3b88b711205ac18657e8623aee9ff385778fdd1808a30dc92d25255301299a195aca1232775a
-  languageName: node
-  linkType: hard
-
-"@argos-ci/core@npm:4.2.0":
-  version: 4.2.0
-  resolution: "@argos-ci/core@npm:4.2.0"
-  dependencies:
-    "@argos-ci/api-client": "npm:0.12.0"
-    "@argos-ci/util": "npm:3.1.1"
-    convict: "npm:^6.2.4"
-    debug: "npm:^4.4.3"
-    fast-glob: "npm:^3.3.3"
-    sharp: "npm:^0.34.4"
-    tmp: "npm:^0.2.5"
-  checksum: 10c0/ce4c4cc5b0b5f9015491685e44557427a17cb83bf09dfe7b3fe0375b034d07a3de95395b815b0858d7eac84148476378585e984681b1d645a26c5ff0e8a1a9f4
+  checksum: 10c0/81636608e47a36a60c24643234ee565481b6281ecdfc70165df87f228d34672157b135287deab5db28c5713341845ed1f84e9b29a7c07df9084770230107b1e5
   languageName: node
   linkType: hard
 
@@ -292,6 +277,22 @@ __metadata:
     sharp: "npm:^0.34.4"
     tmp: "npm:^0.2.5"
   checksum: 10c0/956c31fbaa70f8421f5ec1fc7dab35f0850f235d3d7b128b05196e45cc50264995b65823c189f630cae2f312d94ab64d30a9f42e17bea29fb028eb31fb3c9748
+  languageName: node
+  linkType: hard
+
+"@argos-ci/core@npm:4.5.0":
+  version: 4.5.0
+  resolution: "@argos-ci/core@npm:4.5.0"
+  dependencies:
+    "@argos-ci/api-client": "npm:0.14.0"
+    "@argos-ci/util": "npm:3.2.0"
+    convict: "npm:^6.2.4"
+    debug: "npm:^4.4.3"
+    fast-glob: "npm:^3.3.3"
+    mime-types: "npm:^3.0.1"
+    sharp: "npm:^0.34.4"
+    tmp: "npm:^0.2.5"
+  checksum: 10c0/9f5f15b1f8a715f9fa1f543e997aa9da07752ed5cc0e4e1a530ac968469345245bfa3e0c8da7033f6b7792376bc213a834b097ca5c545834098f396af2b803d5
   languageName: node
   linkType: hard
 
@@ -312,6 +313,13 @@ __metadata:
   version: 3.1.1
   resolution: "@argos-ci/util@npm:3.1.1"
   checksum: 10c0/6fac50e249aca12b11c20f5130424f0749783e632cb1908a49e07972feca3f7576d07d2b6d5fdb4237672de71408a6971a375d9596d20b7c3e101ea0ee3a83d1
+  languageName: node
+  linkType: hard
+
+"@argos-ci/util@npm:3.2.0":
+  version: 3.2.0
+  resolution: "@argos-ci/util@npm:3.2.0"
+  checksum: 10c0/a3ab1b8e227a950966e5bab80aa105e556003648f3b17ef7403321d317b595cd787528b05773117083bd4cb79e9c0286801dd485d9e1a71ab83f1582b3b9d487
   languageName: node
   linkType: hard
 
@@ -11308,10 +11316,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"commander@npm:^14.0.1":
-  version: 14.0.1
-  resolution: "commander@npm:14.0.1"
-  checksum: 10c0/64439c0651ddd01c1d0f48c8f08e97c18a0a1fa693879451f1203ad01132af2c2aa85da24cf0d8e098ab9e6dc385a756be670d2999a3c628ec745c3ec124587b
+"commander@npm:^14.0.2":
+  version: 14.0.2
+  resolution: "commander@npm:14.0.2"
+  checksum: 10c0/245abd1349dbad5414cb6517b7b5c584895c02c4f7836ff5395f301192b8566f9796c82d7bd6c92d07eba8775fe4df86602fca5d86d8d10bcc2aded1e21c2aeb
   languageName: node
   linkType: hard
 
@@ -15351,7 +15359,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
-    "@argos-ci/cli": "npm:^3.1.0"
+    "@argos-ci/cli": "npm:^3.2.1"
     "@argos-ci/playwright": "npm:^6.2.0"
     "@docusaurus/core": "npm:3.8.1"
     "@docusaurus/faster": "npm:^3.8.1"
@@ -16979,6 +16987,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"mime-db@npm:^1.54.0":
+  version: 1.54.0
+  resolution: "mime-db@npm:1.54.0"
+  checksum: 10c0/8d907917bc2a90fa2df842cdf5dfeaf509adc15fe0531e07bb2f6ab15992416479015828d6a74200041c492e42cce3ebf78e5ce714388a0a538ea9c53eece284
+  languageName: node
+  linkType: hard
+
 "mime-db@npm:~1.33.0":
   version: 1.33.0
   resolution: "mime-db@npm:1.33.0"
@@ -17001,6 +17016,15 @@ __metadata:
   dependencies:
     mime-db: "npm:1.52.0"
   checksum: 10c0/82fb07ec56d8ff1fc999a84f2f217aa46cb6ed1033fefaabd5785b9a974ed225c90dc72fff460259e66b95b73648596dbcc50d51ed69cdf464af2d237d3149b2
+  languageName: node
+  linkType: hard
+
+"mime-types@npm:^3.0.1":
+  version: 3.0.1
+  resolution: "mime-types@npm:3.0.1"
+  dependencies:
+    mime-db: "npm:^1.54.0"
+  checksum: 10c0/bd8c20d3694548089cf229016124f8f40e6a60bbb600161ae13e45f793a2d5bb40f96bbc61f275836696179c77c1d6bf4967b2a75e0a8ad40fe31f4ed5be4da5
   languageName: node
   linkType: hard
 
@@ -17555,15 +17579,6 @@ __metadata:
     is-docker: "npm:^2.1.1"
     is-wsl: "npm:^2.2.0"
   checksum: 10c0/bb6b3a58401dacdb0aad14360626faf3fb7fba4b77816b373495988b724fb48941cad80c1b65d62bb31a17609b2cd91c41a181602caea597ca80dfbcc27e84c9
-  languageName: node
-  linkType: hard
-
-"openapi-fetch@npm:^0.14.1":
-  version: 0.14.1
-  resolution: "openapi-fetch@npm:0.14.1"
-  dependencies:
-    openapi-typescript-helpers: "npm:^0.0.15"
-  checksum: 10c0/e1b5375f0461969ff08e951b6308a115a582cca84ed3e0ecc2e41919d44a86038144a7a0b2e217ddb1bb7160a6779f459a2ca0224ff7634a9e89f19afe2a83db
   languageName: node
   linkType: hard
 
