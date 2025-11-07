@@ -51,7 +51,7 @@ Records are normally available at the Legal Affairs Bureau but can also [be purc
 
 ### Prices
 
-- The MLIT offers a view of market prices via the Land General Information System, an [open database](https://www.land.mlit.go.jp/webland/) in [english](https://www.land.mlit.go.jp/webland_english/servlet/MainServlet) of anonymized, past transactions. However, submission is not mandatory so the data does not fully reflect the market.
+- The MLIT offers a view of market prices via the Land General Information System, an [open database](https://www.reinfolib.mlit.go.jp/) of anonymized, past transactions. However, submission is not mandatory so the data does not fully reflect the market.
 
 
 - Statistics on prices per areas are [available](https://tochidai.info/), and can be drilled down [by neighborhood](https://tochidai.info/area/ginza1chome/).
