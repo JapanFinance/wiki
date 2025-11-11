@@ -2,6 +2,12 @@
 
 Cheques / Checks are a serious pain to handle in Japan.  Please consider asking whoever has written you a cheque / check to send you money in some other way.
 
+:::warning
+
+Japan is abolishing support for paper cheques by the end of March 2027. See [this webpage](https://www.zenginkyo.or.jp/tegata-kogitte-haishi/) from the Japanese Bankers Association for more details.
+
+:::
+
 # Details
 
 If you have a bank account or a relative in the country of issuance, you could:
