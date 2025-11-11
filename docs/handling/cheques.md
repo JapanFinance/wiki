@@ -8,7 +8,7 @@ Japan is abolishing support for paper cheques by the end of March 2027. See [thi
 
 :::
 
-# Details
+## Details
 
 If you have a bank account or a relative in the country of issuance, you could:
 
@@ -20,12 +20,12 @@ Of the major banks, only Prestia will still do it (see https://yatsuyaku.com/cle
 
 * SMBC Prestia - https://faq.smbctb.co.jp/faq/show/177?site_domain=smbctbjp ​
 
-Starting in 2025, they will only support:
+Starting in 2025, they will only support the following currencies:
 
-* US Dollar	USD
-* Hong Kong Dollar	HKD
-* Canadian Dollar	CAD
-* Thai Baht	THB
+* US Dollar (USD)
+* Hong Kong Dollar (HKD)
+* Canadian Dollar (CAD)
+* Thai Baht (THB)
 
 Mizuho bank will cash their own checks where they are the payee:
 
