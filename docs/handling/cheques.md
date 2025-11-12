@@ -20,6 +20,8 @@ Of the major banks, only Prestia will still do it (see https://yatsuyaku.com/cle
 
 * SMBC Prestia - https://faq.smbctb.co.jp/faq/show/177?site_domain=smbctbjp ​
 
+**Starting in 2026, [they will charge 20,000 JPY for non-Gold members](https://www.smbctb.co.jp/en/news/2025/news_101025_01.html).**
+
 Starting in 2025, they will only support the following currencies:
 
 * US Dollar (USD)
