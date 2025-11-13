@@ -70,7 +70,7 @@ Note that we are currently using a traffic light system to indicate the complete
 - [Poverty Finance](/life/poverty) 🔴
 - [Charity and donations](/life/charity) 🔴
 - [Education](/life/education) 🔴
-- [Marriage and Divorce](/life/marriage-divorce) 🟡
+- [Marriage and Divorce (incl. LGBT+)](/life/marriage-divorce) 🟡
 - [Children](/life/children) 🟡
 - [Health issues](/life/health) 🔴
 - [Driving](/life/driving) 🔴
