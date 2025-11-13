@@ -2,7 +2,9 @@
 
 ## LGBT+
 
-[Considerations for people in a same sex relationship](https://www.reddit.com/r/JapanFinance/comments/wud8ys/considerations_for_people_in_a_same_sex/)
+[2025-11 Same-sex couple advice](https://www.reddit.com/r/JapanFinance/comments/1ovmcq3/samesex_couple_advice/)
+
+[2022-08 Considerations for people in a same sex relationship](https://www.reddit.com/r/JapanFinance/comments/wud8ys/considerations_for_people_in_a_same_sex/)
 
 ## Prenups
 
