@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@argos-ci/cli": "^3.2.1",
-    "@argos-ci/playwright": "^6.3.3",
+    "@argos-ci/playwright": "^6.3.4",
     "@docusaurus/module-type-aliases": "3.9.2",
     "@docusaurus/tsconfig": "3.9.2",
     "@playwright/test": "^1.57.0",
@@ -39,6 +39,7 @@
   },
   "resolutions": {
     "trim": "^0.0.3",
+    "path-to-regexp": "^0.1.12",
     "package-json": "^8.1.1"
   },
   "browserslist": {
@@ -59,5 +60,5 @@
     "yarn": "4.2.1"
   },
   "description": "Website for r/JapanFinance wiki",
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.12.0"
 }
