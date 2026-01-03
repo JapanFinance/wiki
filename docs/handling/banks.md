@@ -7,11 +7,13 @@
 * PayPay Bank (paper application)
 * SMBC Bank (have to visit counter)
 * Aeon Bank (no online application, have to visit counter or apply by post)
+* Mizuho Bank (at least in some cases)
 
 ### Disallowed
 * Japan Post Bank (for non-kanji using country)
 * Shinsei Bank
 * Prestia Trust Bank
+* SBI Net Bank (and various neobanks backed by it e.g. JAL Neo Bank)
 
 ## Interest rate
 
