@@ -133,7 +133,7 @@ See [this collection](https://www.reddit.com/r/JapanFinance/collection/5e10fa9d-
 
 ### Miscellaneous income
 
-- [Article on Miscellaneous income vs. Business income](https://ryuchan-tax.com/2022/09/12/taxreturn-42/).
+- [Article on Miscellaneous income vs. Business income](https://www.reddit.com/r/JapanFinance/comments/y120o5/new_nta_guidance_business_income_vs_miscellaneous/).
 - [Guide to the taxation of foreign currency](https://www.reddit.com/r/JapanFinance/comments/u9akd5/guide_to_the_taxation_of_foreign_currency/)
 
 ## Filing an Income Tax Return
