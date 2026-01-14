@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@argos-ci/cli": "^4.0.3",
-    "@argos-ci/playwright": "^6.3.8",
+    "@argos-ci/playwright": "^6.3.9",
     "@docusaurus/module-type-aliases": "3.9.2",
     "@docusaurus/tsconfig": "3.9.2",
     "@playwright/test": "^1.57.0",

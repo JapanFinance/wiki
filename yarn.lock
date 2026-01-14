@@ -287,10 +287,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/browser@npm:5.1.0":
-  version: 5.1.0
-  resolution: "@argos-ci/browser@npm:5.1.0"
-  checksum: 10c0/d6cfd1f6010e2be66ca80a50e470750f2b398e620867441d2df44bef0a30a0babb147b0ca269c75fa9acca78589209a5141e9a05e9b64cfde676a8da2ad75121
+"@argos-ci/browser@npm:5.1.1":
+  version: 5.1.1
+  resolution: "@argos-ci/browser@npm:5.1.1"
+  checksum: 10c0/48c9edb53c4586bd73be0a9b0556bbf66eb4831cfc006cf921ace587f74eaf50404c9a1c4dfedae0d92a3e764ee630c75f2318750679154ea50a3ab6aa6d1c66
   languageName: node
   linkType: hard
 
@@ -324,16 +324,32 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/playwright@npm:^6.3.8":
-  version: 6.3.8
-  resolution: "@argos-ci/playwright@npm:6.3.8"
+"@argos-ci/core@npm:5.0.4":
+  version: 5.0.4
+  resolution: "@argos-ci/core@npm:5.0.4"
   dependencies:
-    "@argos-ci/browser": "npm:5.1.0"
-    "@argos-ci/core": "npm:5.0.3"
+    "@argos-ci/api-client": "npm:0.15.0"
+    "@argos-ci/util": "npm:3.2.0"
+    convict: "npm:^6.2.4"
+    debug: "npm:^4.4.3"
+    fast-glob: "npm:^3.3.3"
+    mime-types: "npm:^3.0.2"
+    sharp: "npm:^0.34.5"
+    tmp: "npm:^0.2.5"
+  checksum: 10c0/2be2a7707d3130d5f81b84c745fe32745b85c1e0188f74ea007716fd87e6dd89eb30b8342fba103197f279022baec8f7aba990d70667e0489fb12946087d6f89
+  languageName: node
+  linkType: hard
+
+"@argos-ci/playwright@npm:^6.3.9":
+  version: 6.3.9
+  resolution: "@argos-ci/playwright@npm:6.3.9"
+  dependencies:
+    "@argos-ci/browser": "npm:5.1.1"
+    "@argos-ci/core": "npm:5.0.4"
     "@argos-ci/util": "npm:3.2.0"
     chalk: "npm:^5.6.2"
     debug: "npm:^4.4.3"
-  checksum: 10c0/ff35e29b3c9c442be7c3e063ad7229010ead5cdb82423c68afd1cb6ffce73d9204a0df774aee433e7aae5043fb9cc510a301e99ad64aec8b936e82e64c12737f
+  checksum: 10c0/2f42134e43971b6581139026b4bf4c0921543958d96604a5185410880eea18bb8260824769819cff3e18052d8f14fcc066a8da07e254af909662948f948664fa
   languageName: node
   linkType: hard
 
@@ -15808,7 +15824,7 @@ __metadata:
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
     "@argos-ci/cli": "npm:^4.0.3"
-    "@argos-ci/playwright": "npm:^6.3.8"
+    "@argos-ci/playwright": "npm:^6.3.9"
     "@docusaurus/core": "npm:3.9.2"
     "@docusaurus/faster": "npm:^3.9.2"
     "@docusaurus/module-type-aliases": "npm:3.9.2"
