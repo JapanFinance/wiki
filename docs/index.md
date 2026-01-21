@@ -19,8 +19,10 @@ Note that we are currently using a traffic light system to indicate the complete
 
 ## Quick-Start Guide
 - [Essential knowledge](/quick-start/essentials) 🟢
+- [Investing Quickstart](/quick-start/investing) 🔴
 - [Cost of living](/quick-start/cost-of-living) 🟡
 - [Stages of residence](/quick-start/stages) 🔴
+
 
 ## Earning Money
 - [Employment](/earning/employment) 🟡
