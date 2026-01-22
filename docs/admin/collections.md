@@ -1,5 +1,6 @@
 # Questions Threads
 
+- [2026 Tax Return Questions Thread](https://www.reddit.com/r/JapanFinance/comments/1qjhxqw/tax_return_questions_thread_filing_deadline_march/)
 - [2025 Furusato Nozei Question Thread](https://www.reddit.com/r/JapanFinance/comments/1pfnpgp/2025_furusato_nozei_question_thread/)
 - [2025 Year-End Adjustment Questions Thread](https://www.reddit.com/r/JapanFinance/comments/1opnolf/2025_yearend_adjustment_questions_thread/)
 - [2025 Mid-year Furusato Nozei Question Thread](https://www.reddit.com/r/JapanFinance/comments/1nf1xkg/2025_midyear_furusato_nozei_question_thread/)
