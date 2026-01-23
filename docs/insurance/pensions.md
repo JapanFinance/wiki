@@ -22,9 +22,16 @@ Persons who have paid contributions for at least 10 years are eligible to receiv
 
 People who have contributed at least 6 months can request a limited, partial refund when they leave, but give up corresponding pension rights.
 
-## Solvency of the National Pensions 
+## Solvency and Indexing of the National Pensions 
 
-Despite the planned drastic decline in population, the pensions system has large assets that can cover its payment obligation for the foreseeable future, and regularly publishes reports on its assets.
+Despite the planned drastic decline in population, the pensions system has large assets that can cover its payment obligation for the foreseeable future, and regularly publishes reports on its growing assets. As of 2026, the assets ar enot even used to pay existing pensions, they are fully covered by new contributions and taxes.
+
+In addition, the pensions are revised every year, to follow wages then inflation.
+
+Please check the followign annual discussions :
+[Pension benefit amounts for 2024](https://www.reddit.com/r/JapanFinance/comments/19axwtb/pension_benefit_amounts_for_2024_releases/)
+[Pension benefits amount for 2025](https://www.reddit.com/r/JapanFinance/comments/1i8q39k/pension_benefits_amount_for_2025/)
+[Pension benefits amount for 2026](https://www.reddit.com/r/JapanFinance/comments/1qkjgsw/pension_benefits_amount_for_2026/)
 
 ## Employees' pension
 
