@@ -82,8 +82,12 @@ is decent). Check out your employer's retirement benefits plan if they have one 
 💡If you are a US tax resident, be sure to check the subreddit for clarity on the latest stance of the IRS with regards to the iDeCo's tax-exempt 
 status. 
 
+💡Note that this is an "Account". Similar to a bank account that holds money, this investment account would hold financial securities. The account
+is preferred over a normal taxable account (see below) as it would allow for more efficient way to hold the securities that you are interested in purchasing.
+
 Go to the [iDeCo](https://wiki.japanfinance.org/investing/long/#tax-advantaged-accounts--ideco) section of the wiki. Similar to the employer
 matched contributions, this might not make sense for you based on your circumstances (such as if you plan to leave Japan, never to return). 
+
 
 ### iDeCo + Employer matches
 
@@ -96,6 +100,9 @@ referenced above, but called out here additionally, explicitly.
 💡If you are a US tax resident, at the time of writing, IBKR and Nomura are among the only providers that will offer you a NISA account. Additionally,
 in this NISA, you need to avoid using the Tsumitate portion because this portion currently only allows domestic mutual funds to be held in it, which are all 
 PFICs. You may use the General (seicho, 成長) portions to purchase individual stocks (US and Japanese) and US based ETFs and only pay US taxes on it. 
+
+💡Note that this is an "Account". Similar to a bank account that holds money, this investment account would hold financial securities. The account
+is preferred over a normal taxable account (see below) as it would allow for more efficient way to hold the securities that you are interested in purchasing.
 
 Go to the [NISA](https://wiki.japanfinance.org/investing/long/#tax-advantaged--accounts--nisa) section of the wiki. 
 
@@ -118,6 +125,17 @@ takes care of your taxes via a YETA and you do not have an alternate source of i
 If you would like to file Japanese taxes manually, and/or defer the tax withholding, you can request for a special/specific account without tax withholding 
 (特定口座 源泉徴収なし, tokutei-kouza gensen-choushuu-nashi) account instead. In this account, the tax withholding is computed for you, and at the end of the year
 a report is generated that you can link with your tax returns to pay your taxes.
+
+## What should I buy? 
+
+For most people, buying a globally diversified low cost index fund would satisfy their investing requirements. On the r/JapanFinance subreddit, the most popular
+example of such a fund would be the eMaxis Slim All Country (eMaxis Slim全世界株式(オール･カントリー), eMaxis Slim zen-sekai-kabushiki (All Country), オルカン). 
+This is just one example of the a globally diversified low cost index fund. There are other choices available to you that are all equally valid. 
+
+Many people disagree with the statement above, and instead recommend a variety of things that you should invest in instead. As part of the quickstart guide however,
+none of these other options would apply as generally to you as a globally diversified low cost index fund. You are encouraged to check out r/JapanFinance wiki for
+supporting and opposing beliefs on your specific alternative to a globally diversified low cost index fund. 
+
 
 ## General Investing Cautions: !!
 
