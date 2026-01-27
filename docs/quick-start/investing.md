@@ -77,7 +77,7 @@ contributions, while in Japan, your voluntary contributions are capped by your e
 In many many cases, it still makes sense to maximise your voluntary contributions (either for tax deductions, or because your employer's plan
 is decent). Check out your employer's retirement benefits plan if they have one and make an informed decision based on your goals. 
 
-## Don't like your employer's plans / don't have an employer?: iDeCo 
+## Don't like your employer's plans / don't have a corporate employer?: iDeCo 
 
 💡If you are a US tax resident, be sure to check the subreddit for clarity on the latest stance of the IRS with regards to the iDeCo's tax-exempt 
 status. 
