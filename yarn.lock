@@ -294,17 +294,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/cli@npm:^4.0.4":
-  version: 4.0.4
-  resolution: "@argos-ci/cli@npm:4.0.4"
+"@argos-ci/cli@npm:^4.0.5":
+  version: 4.0.5
+  resolution: "@argos-ci/cli@npm:4.0.5"
   dependencies:
     "@argos-ci/core": "npm:5.0.4"
     commander: "npm:^14.0.2"
-    ora: "npm:^9.0.0"
+    ora: "npm:^9.1.0"
     update-notifier: "npm:^7.3.1"
   bin:
     argos: bin/argos-cli.js
-  checksum: 10c0/50cbf21f4df4602d72f517de43b32ddb4655ebb6d6bdd6ade6207ac291408dbdf30a33d2daf77794c86d134aa4056d42fa18527137dbd8aec5e704c46223b4c5
+  checksum: 10c0/2c87d333347755fe23447855ecb613a470bad207242e29452323f3195043b17ca90bf243435955bff96d5a04bfe0f43df0316feb9d31d3df656bbe2c9da67856
   languageName: node
   linkType: hard
 
@@ -15580,7 +15580,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
-    "@argos-ci/cli": "npm:^4.0.4"
+    "@argos-ci/cli": "npm:^4.0.5"
     "@argos-ci/playwright": "npm:^6.4.0"
     "@docusaurus/core": "npm:3.9.2"
     "@docusaurus/faster": "npm:^3.9.2"
@@ -17869,9 +17869,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ora@npm:^9.0.0":
-  version: 9.0.0
-  resolution: "ora@npm:9.0.0"
+"ora@npm:^9.1.0":
+  version: 9.1.0
+  resolution: "ora@npm:9.1.0"
   dependencies:
     chalk: "npm:^5.6.2"
     cli-cursor: "npm:^5.0.0"
@@ -17881,8 +17881,7 @@ __metadata:
     log-symbols: "npm:^7.0.1"
     stdin-discarder: "npm:^0.2.2"
     string-width: "npm:^8.1.0"
-    strip-ansi: "npm:^7.1.2"
-  checksum: 10c0/1ec886a9a458eccd335bc66d9bf8a9ded2d3c3fc44416676c90bd72161b677559a7e9bde981b06066ac1be57cc62025f0d1319a376855cb64bb3403637a3815b
+  checksum: 10c0/8a8f02809d8b7b0e2534a0232eb2d8a01e1fa84a0f346a830ad3d70405a0ae7b947cb5b6a2f6be3007bccc2518d100330a6c505a833862899e37465dda7f82c6
   languageName: node
   linkType: hard
 
@@ -21372,15 +21371,6 @@ __metadata:
   dependencies:
     ansi-regex: "npm:^6.0.1"
   checksum: 10c0/a198c3762e8832505328cbf9e8c8381de14a4fa50a4f9b2160138158ea88c0f5549fb50cb13c651c3088f47e63a108b34622ec18c0499b6c8c3a5ddf6b305ac4
-  languageName: node
-  linkType: hard
-
-"strip-ansi@npm:^7.1.2":
-  version: 7.1.2
-  resolution: "strip-ansi@npm:7.1.2"
-  dependencies:
-    ansi-regex: "npm:^6.0.1"
-  checksum: 10c0/0d6d7a023de33368fd042aab0bf48f4f4077abdfd60e5393e73c7c411e85e1b3a83507c11af2e656188511475776215df9ca589b4da2295c9455cc399ce1858b
   languageName: node
   linkType: hard
 
