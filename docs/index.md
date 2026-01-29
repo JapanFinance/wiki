@@ -57,6 +57,7 @@ Note that we are currently using a traffic light system to indicate the complete
 - [Health Insurance](/insurance/health) 🔴
 - [Pensions](/insurance/pensions) 🟡
 - [Unemployment Insurance](/insurance/unemployment) 🔴
+- [Life Insurance](/insurance/life) 🔴
 
 ## Tax
 - [Income tax](/tax/income) 🟡
