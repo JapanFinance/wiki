@@ -48,6 +48,8 @@ Life insurance products in Japan don’t address the concern of a potential high
 
 The most common case: I pay for my life insurance and my spouse or kids receive it. In this case the amount gets taxed as inheritance (it gets added to the rest of the estate). For whole life and term life, this is simple: the amount gets added directly. For income protection, they calculate a present value or surrender value equivalent of the pension (解約返戻金相当額) and tax that as inheritance. Then the payouts get split into principal (tax free at payout time) and interest (taxed as misc income). More on this [on this NTA page](https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/4123.htm) and [this thread](https://www.reddit.com/r/JapanFinance/comments/1ojt1t0/tax_on_life_insurance_payouts/).
 
+Moreover if the beneficiary is a statutory heir, then [there is an additional 5 million yen per statutory heir tax exemption](https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/4114.htm) (similar to [inherited DC pensions](https://www.reddit.com/r/JapanFinance/comments/16d3n78/death_and_dc_pension_benefits/)).
+
 If the payer and insured are different, [then the tax is different](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1750.htm):
 
 | Insured person | Insurance premium payer | Beneficiary | Type of Tax     |
