@@ -58,7 +58,7 @@ When taken as an annuity, iDeCo is subject to the same taxes as public pensions.
 
 Note that some company DC or DB pension plans interfere with eligibility for iDeCo. Your ability to use iDeCo will depend on the implementation done by your employer, and opening an iDeCo normally requires asking your employer HR to fill paperwork. Depending on your DC plan, it might also not be beneficial to change from a corporate DC to an iDeCo. 
 
-See [this post](https://www.reddit.com/r/JapanFinance/comments/16d3n78/death_and_dc_pension_benefits/) about the beneficiary of your DC account.
+See [this post](https://www.reddit.com/r/JapanFinance/comments/16d3n78/death_and_dc_pension_benefits/) about the beneficiary of your DC account, as the tax treatment during inheritance is counted as a life-insurance and benefit from a specific deduction of 5M JPY per statutory heir, as per [NTA no4114](https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/4114.htm).
 
 ### Tax advantaged  Accounts : NISA
 
