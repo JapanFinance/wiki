@@ -2,6 +2,8 @@
 
 One might have financial goals that they want to fulfill even after they die. Probably the most common one is to take care of one’s family if one dies early. To handle this, one can take out life insurance, which pays money if one dies.
 
+Some life insurance also comes with protections against major illnesses, or incapacities, however this page focuses on death coverage.
+
 ## Types of life insurance
 
 ### Permanent or Whole Life Insurance (終身保険)
