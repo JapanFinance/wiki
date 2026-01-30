@@ -136,7 +136,7 @@ Setback area can be imposed when building if road access is insufficient.
 
 [Great comment about valuing land and houses in Tokyo](https://www.reddit.com/r/JapanFinance/comments/xd3ywk/comment/iobuxvg/)
 
-Building experience blogs : [Kichijoji Life ](http://kichijojilife.blogspot.com/), [Osaka House Project](https://osakahouseproject.blogspot.com/), [Tokyo House](http://lundman.net/wiki/index.php/Tokyo_house) by u/lundman
+Building experience blogs : [Kichijoji Life ](http://kichijojilife.blogspot.com/), [Osaka House Project](https://osakahouseproject.blogspot.com/), [Tokyo House](http://lundman.net/wiki/index.php/Tokyo_house) by u/lundman, [Ichijo house 2025](https://www.reddit.com/r/JapanFinance/comments/1qqw4ko/we_built_a_house_in_tokyo_ichijo_and_here_is_our/) by u/szabo_jp
 
 In Japanese : [Timeline for building a custom home](https://www.arrowsrealty.com/column/summary-of-buy-land-and-build-a-custom-home)
 
