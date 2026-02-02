@@ -102,7 +102,7 @@ referenced above, but called out here additionally, explicitly.
 in this NISA, you need to avoid using the Tsumitate portion because it can currently only hold domestic mutual funds, which are all 
 PFICs. You may use the General (seicho, 成長) portion to purchase individual stocks (US and Japanese) and US based ETFs and only pay US taxes on it. 
 
-💡Note that this is a tax advantaged "Account". Similar to a bank account that holds money, these investment accounts hold financial securities. NISA accounts
+💡Note that this is a tax advantaged account. Similar to how a bank account holds money, these investment accounts hold financial securities. NISA accounts
 are preferable to normal taxable accounts (see below) as they allow for a more efficient way to hold the securities that you are interested in purchasing.
 
 Go to the [NISA](https://wiki.japanfinance.org/investing/long/#tax-advantaged--accounts--nisa) section of the wiki. 
