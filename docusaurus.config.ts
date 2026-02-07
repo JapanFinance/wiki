@@ -1,7 +1,7 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-import type {PluginOptions as SearchPluginOptions} from '@easyops-cn/docusaurus-search-local';
+import type { PluginOptions as SearchPluginOptions } from '@easyops-cn/docusaurus-search-local';
 
 const config: Config = {
   title: 'r/JapanFinance',
@@ -23,7 +23,6 @@ const config: Config = {
   trailingSlash: true,
 
   onBrokenLinks: 'warn', // TODO switch to 'throw' after addressing broken links
-  onBrokenMarkdownLinks: 'warn',
 
   future: {
     // See https://docusaurus.io/blog/releases/3.8#future-flags
@@ -41,7 +40,10 @@ const config: Config = {
   },
 
   markdown: {
-    mermaid: true
+    mermaid: true,
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    }
   },
 
   presets: [
