@@ -1,12 +1,14 @@
-Welcome to the r/japanfinance wiki. The information contained here comes with no guarantee of accuracy and could never substitute for the advice of a licensed professional. However, we hope that it will still be a valuable resource to residents of Japan. 
+Welcome to the r/JapanFinance wiki, a community-driven resource covering personal finance, investing, taxes, and daily life in Japan.
+
+The information contained here comes with no guarantee of accuracy and could never substitute for the advice of a licensed professional. However, we hope that it will still be a valuable resource to residents of Japan.
 
 If you have relevant knowledge, experience, links, tips, or anything else, please become a contributor! Users who make significant contributions to the wiki will be offered the ability to choose a custom user flair.
 
 Note that we are currently using a traffic light system to indicate the completeness of each section of the wiki:
  
- 🟢 means that a section is more or less complete (though of course the wiki should always be growing and adapting). 
+ 🟢 means that a section is more or less complete (though of course the wiki should always be growing and adapting).
 
- 🟡 means that a section contains useful information but is incomplete. 
+ 🟡 means that a section contains useful information but is incomplete.
 
  🔴 means that a section does not yet contain useful information.
 
