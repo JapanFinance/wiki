@@ -103,7 +103,9 @@ const config: Config = {
       colorMode: {
         respectPrefersColorScheme: true,
       },
-      metadata: [{ name: 'keywords', content: 'finance, japan, tax, personal finance, income, retirement, FIRE' }],
+      metadata: [
+        { name: 'keywords', content: 'finance, japan, tax, personal finance, income, retirement, FIRE, inheritance, furusato nozei' }
+      ],
       // Your project's social card
       image: 'img/social-card.jpg',
       navbar: {
