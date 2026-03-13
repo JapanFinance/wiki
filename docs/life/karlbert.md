@@ -1,3 +1,7 @@
+---
+unlisted: true
+---
+
 # Keeping Immigration Notified
 
 All references in statutory provisions in this section are to the [Immigration Law](https://elaws.e-gov.go.jp/document?lawid=326CO0000000319) unless otherwise stated. Users are encouraged to consult the statutory language itself if they are in need of clarification.
