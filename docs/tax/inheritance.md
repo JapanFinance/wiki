@@ -1,12 +1,14 @@
 # Inheritance Tax
 
-Inheritance Tax is called 相続税. Relevant threads are found under the flair [Inheritance / Estate](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Tax%20%C2%BB%20Inheritance%20%2F%20Estate%22), also check [Personal Finance » Inheritance Planning](https://www.reddit.com/r/JapanFinance/search?q=flair_name%3A%22Personal%20Finance%20%C2%BB%20Inheritance%20Planning%22&restrict_sr=1).
+Inheritance tax (相続税) can generate significant concern at first, especially when looking only at the inheritance tax rates and considering the whole estate, but taking the time to understand its mechanics and counter-intuitive calculation shows it is not due in 90% of the cases, only covers certain assets, and actual rates are progressive.
 
-For general topics regarding passing, such as end of life care, making a will etc, please check the [Life Events > Death page](https://www.reddit.com/r/JapanFinance/wiki/edit/index/life/death/).
+First, try to use this [inheritance tax calculator](https://japanfinance.tools/inheritance-tax-calculator).
 
 **Fair warning the tax is counterintuitive and you likely need to carefully read through the calculation section step by step to correct natural misconceptions :**
 
-Inheritance tax can generate significant concern at first, especially when looking only at the inheritance tax rates and considering the whole estate, but taking the time to understand its mechanics and counter-intuitive calculation shows it is not due in 90% of the cases, only cover certain assets, and actual rates are progressive. The easiest is first to try to use [the online calculator](https://japanfinance.tools/inheritance-tax-calculator).
+Relevant threads are found under the flair [Inheritance / Estate](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Tax%20%C2%BB%20Inheritance%20%2F%20Estate%22), also check [Personal Finance » Inheritance Planning](https://www.reddit.com/r/JapanFinance/search?q=flair_name%3A%22Personal%20Finance%20%C2%BB%20Inheritance%20Planning%22&restrict_sr=1).
+
+For general topics regarding passing, such as end of life care, making a will etc, please check the [Life Events > Death page](https://www.reddit.com/r/JapanFinance/wiki/edit/index/life/death/).
 
 ## Who is subject to inheritance tax?
 
