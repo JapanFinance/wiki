@@ -86,19 +86,19 @@ Note that we are currently using a traffic light system to indicate the complete
 
 ## Country-Specific Resources
 
-Americas : 
+### Americas
 
 - [US](/countries/US) 🟡
 
 - [Canada](/countries/Canada) 🟡
 
-Europe : 
+### Europe
 
 - [France](/countries/FR) 🟡
 
 - [UK](/countries/UK) 🟡
 
-Asia-Pacific : 
+### Asia-Pacific
 
 - [Australia](/countries/Australia) 🟡
 
