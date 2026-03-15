@@ -14,6 +14,7 @@
 * Shinsei Bank
 * Prestia Trust Bank
 * SBI Net Bank (and various neobanks backed by it e.g. JAL Neo Bank)
+* Resona Bank
 
 ## Interest rate
 
