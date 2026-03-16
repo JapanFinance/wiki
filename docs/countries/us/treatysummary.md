@@ -14,7 +14,8 @@ Disclaimer: the following information is intended as a summary. The treaty conta
 
 |**Income**|**Where taxable?**|**Who will provide FTC?**|**Eligible for RBT?**|**Treaty Article**|
 :--|:--|:--|:--|:--|
-|Employment|Both|US (FEIE also possible)|No|14|
+|Employment (worker located in Japan)|Both|US (FEIE also possible)|No|14|
+|Employment (worker located in the US)|Both|Japan|Yes|14|
 |Capital gains (shares, etc.)|Both|US|No[^1]|13|
 |Dividends (including CG distributions)|Both|Japan up to 10%, then US|Yes|10|
 |Capital gains (real estate)|Both|Japan|Yes|13|
