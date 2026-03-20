@@ -2922,7 +2922,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@easyops-cn/docusaurus-search-local@npm:^0.55.1":
+"@easyops-cn/docusaurus-search-local@npm:0.55.1":
   version: 0.55.1
   resolution: "@easyops-cn/docusaurus-search-local@npm:0.55.1"
   dependencies:
@@ -9906,7 +9906,7 @@ __metadata:
     "@docusaurus/preset-classic": "npm:3.9.2"
     "@docusaurus/theme-mermaid": "npm:^3.9.2"
     "@docusaurus/tsconfig": "npm:3.9.2"
-    "@easyops-cn/docusaurus-search-local": "npm:^0.55.1"
+    "@easyops-cn/docusaurus-search-local": "npm:0.55.1"
     "@mdx-js/react": "npm:^3.1.1"
     "@playwright/test": "npm:^1.58.2"
     cheerio: "npm:^1.2.0"
