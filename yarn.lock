@@ -308,22 +308,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/core@npm:5.1.1":
-  version: 5.1.1
-  resolution: "@argos-ci/core@npm:5.1.1"
-  dependencies:
-    "@argos-ci/api-client": "npm:0.16.0"
-    "@argos-ci/util": "npm:3.2.0"
-    convict: "npm:^6.2.4"
-    debug: "npm:^4.4.3"
-    fast-glob: "npm:^3.3.3"
-    mime-types: "npm:^3.0.2"
-    sharp: "npm:^0.34.5"
-    tmp: "npm:^0.2.5"
-  checksum: 10c0/4284203baacf6dcf3424da9bcf4b30eb7172f2a1b63ac65673be27b5b6b9f5d6b52d2b4ea70674f3691cd4f17aa32c07683e5c1abce68bddccd16e5bf11b60e0
-  languageName: node
-  linkType: hard
-
 "@argos-ci/core@npm:5.1.2":
   version: 5.1.2
   resolution: "@argos-ci/core@npm:5.1.2"
@@ -340,23 +324,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/playwright@npm:^6.4.2":
-  version: 6.4.2
-  resolution: "@argos-ci/playwright@npm:6.4.2"
+"@argos-ci/playwright@npm:^6.5.0":
+  version: 6.5.0
+  resolution: "@argos-ci/playwright@npm:6.5.0"
   dependencies:
     "@argos-ci/browser": "npm:5.1.2"
-    "@argos-ci/core": "npm:5.1.1"
-    "@argos-ci/util": "npm:3.2.0"
+    "@argos-ci/core": "npm:5.1.2"
+    "@argos-ci/util": "npm:3.3.0"
     chalk: "npm:^5.6.2"
     debug: "npm:^4.4.3"
-  checksum: 10c0/99aac0c9446f45a7023d414d37b6d433f34330aa3a2b6c8aef261a6eb431106ae13fc52c65b01c2f6e6ee64b0fd39a9ac361071d640a3b0cce26459d256cc2ff
-  languageName: node
-  linkType: hard
-
-"@argos-ci/util@npm:3.2.0":
-  version: 3.2.0
-  resolution: "@argos-ci/util@npm:3.2.0"
-  checksum: 10c0/a3ab1b8e227a950966e5bab80aa105e556003648f3b17ef7403321d317b595cd787528b05773117083bd4cb79e9c0286801dd485d9e1a71ab83f1582b3b9d487
+  checksum: 10c0/937c02efb153f6dd122fb7e6b1a5fba4e204a6cfa7aaaa16ba982fab6b085a6886ae6ebe12e067586efbf9796a78e998377429e6e49fbeac64efbc10569db77a
   languageName: node
   linkType: hard
 
@@ -15486,7 +15463,7 @@ __metadata:
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
     "@argos-ci/cli": "npm:^4.1.2"
-    "@argos-ci/playwright": "npm:^6.4.2"
+    "@argos-ci/playwright": "npm:^6.5.0"
     "@docusaurus/core": "npm:3.9.2"
     "@docusaurus/faster": "npm:^3.9.2"
     "@docusaurus/module-type-aliases": "npm:3.9.2"
