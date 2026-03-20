@@ -6359,7 +6359,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/plugin-content-docs@npm:3.9.2":
+"@docusaurus/plugin-content-docs@npm:3.9.2, @docusaurus/plugin-content-docs@npm:^3.9.2":
   version: 3.9.2
   resolution: "@docusaurus/plugin-content-docs@npm:3.9.2"
   dependencies:
@@ -15467,6 +15467,7 @@ __metadata:
     "@docusaurus/core": "npm:3.9.2"
     "@docusaurus/faster": "npm:^3.9.2"
     "@docusaurus/module-type-aliases": "npm:3.9.2"
+    "@docusaurus/plugin-content-docs": "npm:^3.9.2"
     "@docusaurus/preset-classic": "npm:3.9.2"
     "@docusaurus/theme-mermaid": "npm:^3.9.2"
     "@docusaurus/tsconfig": "npm:3.9.2"
