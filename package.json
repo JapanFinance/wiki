@@ -39,6 +39,7 @@
     "wrangler": "^4.75.0"
   },
   "resolutions": {
+    "@docusaurus/*": "3.9.2",
     "trim": "^0.0.3",
     "path-to-regexp": "^0.1.12",
     "package-json": "^8.1.1"
