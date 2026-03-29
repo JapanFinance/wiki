@@ -34,7 +34,7 @@
     "@docusaurus/module-type-aliases": "3.9.2",
     "@docusaurus/tsconfig": "3.9.2",
     "@playwright/test": "^1.58.2",
-    "@types/node": "22",
+    "@types/node": "^24.0.0",
     "cheerio": "^1.2.0",
     "typescript": "^6.0.2",
     "wrangler": "^4.78.0"
@@ -58,7 +58,7 @@
     ]
   },
   "engines": {
-    "node": ">=18.0",
+    "node": ">=24.0",
     "npm": "use yarn instead",
     "yarn": "4.2.1"
   },
