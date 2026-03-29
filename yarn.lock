@@ -5157,6 +5157,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/node@npm:22":
+  version: 22.19.15
+  resolution: "@types/node@npm:22.19.15"
+  dependencies:
+    undici-types: "npm:~6.21.0"
+  checksum: 10c0/f17eaf3d0d1da5e93ad9e287efb78201f8a5282973c004c5f70d91675c5c6b926a23acaa7b158a42b3d7e27e36b349d65a531710c91c308fca53dd7fa280ef98
+  languageName: node
+  linkType: hard
+
 "@types/node@npm:^17.0.5":
   version: 17.0.45
   resolution: "@types/node@npm:17.0.45"
@@ -9909,6 +9918,7 @@ __metadata:
     "@easyops-cn/docusaurus-search-local": "npm:0.55.1"
     "@mdx-js/react": "npm:^3.1.1"
     "@playwright/test": "npm:^1.58.2"
+    "@types/node": "npm:22"
     cheerio: "npm:^1.2.0"
     clsx: "npm:^2.1.1"
     prism-react-renderer: "npm:^2.4.1"
@@ -14962,6 +14972,13 @@ __metadata:
   version: 1.5.4
   resolution: "ufo@npm:1.5.4"
   checksum: 10c0/b5dc4dc435c49c9ef8890f1b280a19ee4d0954d1d6f9ab66ce62ce64dd04c7be476781531f952a07c678d51638d02ad4b98e16237be29149295b0f7c09cda765
+  languageName: node
+  linkType: hard
+
+"undici-types@npm:~6.21.0":
+  version: 6.21.0
+  resolution: "undici-types@npm:6.21.0"
+  checksum: 10c0/c01ed51829b10aa72fc3ce64b747f8e74ae9b60eafa19a7b46ef624403508a54c526ffab06a14a26b3120d055e1104d7abe7c9017e83ced038ea5cf52f8d5e04
   languageName: node
   linkType: hard
 
