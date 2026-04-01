@@ -42,7 +42,7 @@
   "resolutions": {
     "@docusaurus/*": "3.9.2",
     "trim": "^0.0.3",
-    "path-to-regexp": "^0.1.12",
+    "path-to-regexp": "^0.1.13",
     "package-json": "^8.1.1"
   },
   "browserslist": {
