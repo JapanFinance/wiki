@@ -30,8 +30,8 @@ const config: Config = {
   future: {
     // See https://docusaurus.io/blog/releases/3.8#future-flags
     v4: true, // Enable Docusaurus v4 features
-    // See https://docusaurus.io/blog/releases/3.6
-    experimental_faster: true
+    // See https://docusaurus.io/blog/releases/3.10
+    faster: true
   },
 
   // Even if you don't use internalization, you can use this field to set useful
