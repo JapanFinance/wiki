@@ -265,6 +265,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@argos-ci/api-client@npm:0.20.0":
+  version: 0.20.0
+  resolution: "@argos-ci/api-client@npm:0.20.0"
+  dependencies:
+    debug: "npm:^4.4.3"
+    openapi-fetch: "npm:^0.17.0"
+  checksum: 10c0/42e4c286a001f3d6110d872cac3b9cdf34117cb9a638bd7e70f30b493a7bcb73b160b43c8899494f3ef142e2f1358575a997eb63170383876b3dd230f2d0a1b6
+  languageName: node
+  linkType: hard
+
 "@argos-ci/browser@npm:5.1.3":
   version: 5.1.3
   resolution: "@argos-ci/browser@npm:5.1.3"
@@ -272,19 +282,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/cli@npm:^4.3.1":
-  version: 4.3.1
-  resolution: "@argos-ci/cli@npm:4.3.1"
+"@argos-ci/cli@npm:^5.0.0":
+  version: 5.0.0
+  resolution: "@argos-ci/cli@npm:5.0.0"
   dependencies:
-    "@argos-ci/api-client": "npm:0.19.0"
-    "@argos-ci/core": "npm:5.3.1"
+    "@argos-ci/api-client": "npm:0.20.0"
+    "@argos-ci/core": "npm:6.0.0"
     commander: "npm:^14.0.3"
     open: "npm:^11.0.0"
-    ora: "npm:^9.3.0"
+    ora: "npm:^9.4.0"
     update-notifier: "npm:^7.3.1"
   bin:
     argos: bin/argos-cli.js
-  checksum: 10c0/1362eaf3429ea1d726ddfe1553fe0b620fab8c99ae65f990f5ecb55bbdacfc9811bb3f660d069290d2ad55d6870f5c5751bebc6a564f1a1ec7e8e7154256d2c8
+  checksum: 10c0/2a68ff5f677b7f858afba990a560af805623d930f5a5631b952ff4e0b3e734721f167fcbca67e29bfd69456768a8badc4270a1fa2c76a34939f462f1088010e4
   languageName: node
   linkType: hard
 
@@ -301,6 +311,22 @@ __metadata:
     sharp: "npm:^0.34.5"
     tmp: "npm:^0.2.5"
   checksum: 10c0/2f925bfa53463f875c22f43ab29914f075a17a757ce7094e577fb7b24f22a0d1cf2e0447412e3b23c8e56fbc8cdba36e45a0e5dfa0530f493c072bcdbd4064f4
+  languageName: node
+  linkType: hard
+
+"@argos-ci/core@npm:6.0.0":
+  version: 6.0.0
+  resolution: "@argos-ci/core@npm:6.0.0"
+  dependencies:
+    "@argos-ci/api-client": "npm:0.20.0"
+    "@argos-ci/util": "npm:4.0.0"
+    convict: "npm:^6.2.5"
+    debug: "npm:^4.4.3"
+    fast-glob: "npm:^3.3.3"
+    mime-types: "npm:^3.0.2"
+    sharp: "npm:^0.34.5"
+    tmp: "npm:^0.2.5"
+  checksum: 10c0/19d1b4999b6d5088d6de2ac43b0bb8c68f8391eb8210d83d7f080c6a598a89dc783b2b7fffe93112f4bd56b6fd1af034deec79eb64c2d5cb34f911d2821ebd46
   languageName: node
   linkType: hard
 
@@ -321,6 +347,13 @@ __metadata:
   version: 3.4.0
   resolution: "@argos-ci/util@npm:3.4.0"
   checksum: 10c0/a407240734cac538fd203e42fa472ef41a8f141cd4a5392c9c48248f2f57a65cb6a2e2d0bec167c2c993ad91b603344a9996a67d2c73da09a6b18a25868b5828
+  languageName: node
+  linkType: hard
+
+"@argos-ci/util@npm:4.0.0":
+  version: 4.0.0
+  resolution: "@argos-ci/util@npm:4.0.0"
+  checksum: 10c0/be54a0888dd1d5554bd8830da3f4647ac5596cab691605d3508d1723c2b9522375c9f1c462b145ac857d3cacf8f8a8fdcbf0d263d6cc7f6ef798311c46acc968
   languageName: node
   linkType: hard
 
@@ -10356,7 +10389,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
-    "@argos-ci/cli": "npm:^4.3.1"
+    "@argos-ci/cli": "npm:^5.0.0"
     "@argos-ci/playwright": "npm:^6.6.4"
     "@docusaurus/core": "npm:3.10.1"
     "@docusaurus/faster": "npm:^3.10.1"
@@ -12424,9 +12457,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ora@npm:^9.3.0":
-  version: 9.3.0
-  resolution: "ora@npm:9.3.0"
+"ora@npm:^9.4.0":
+  version: 9.4.0
+  resolution: "ora@npm:9.4.0"
   dependencies:
     chalk: "npm:^5.6.2"
     cli-cursor: "npm:^5.0.0"
@@ -12434,9 +12467,9 @@ __metadata:
     is-interactive: "npm:^2.0.0"
     is-unicode-supported: "npm:^2.1.0"
     log-symbols: "npm:^7.0.1"
-    stdin-discarder: "npm:^0.3.1"
+    stdin-discarder: "npm:^0.3.2"
     string-width: "npm:^8.1.0"
-  checksum: 10c0/1d25c0f43e20389757285f740686958bce78ccb9d03dda190ecc92ae585cbc498fa54cf13933fea2f96cb97a0be82e927cf0fd8c96217459f9c43d915a380531
+  checksum: 10c0/8f2d7a8869cd68607797ac0ffe9f5cdceeb6009437672510d9920aea794cdd055164e3fe804248624c4940a71b22f94f1ffd94ce8fecf0746baef97a5c121a91
   languageName: node
   linkType: hard
 
@@ -14976,10 +15009,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stdin-discarder@npm:^0.3.1":
-  version: 0.3.1
-  resolution: "stdin-discarder@npm:0.3.1"
-  checksum: 10c0/2fda9b230e72f092a933dbc755fadbfd53b721b103acddd06c2642a81793565f1673f249dc54fc0c63b141f222e9d09494cdf4db6ab7998f54e0b0be8526cba5
+"stdin-discarder@npm:^0.3.2":
+  version: 0.3.2
+  resolution: "stdin-discarder@npm:0.3.2"
+  checksum: 10c0/5dbaba9efbcb447a4450d5ae19794641ea9166abe96dc4b5547a109db1bb6e8bdb17bbe1029e02ca8d9d8ee996b7c7cbcce12b12c18c121871cd4f574292381a
   languageName: node
   linkType: hard
 
