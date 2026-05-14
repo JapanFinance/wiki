@@ -37,7 +37,7 @@
     "@types/node": "^24.12.4",
     "cheerio": "^1.2.0",
     "typescript": "^6.0.3",
-    "wrangler": "^4.90.0"
+    "wrangler": "^4.90.1"
   },
   "resolutions": {
     "@docusaurus/*": "3.10.1",
