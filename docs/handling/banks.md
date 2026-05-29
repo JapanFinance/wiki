@@ -27,16 +27,18 @@ The interest rate on bank accounts varies by bank and conditions. See the follow
 
 ## Credit cards
 
-[Rakuten Card](https://www.rakuten-card.co.jp/) is generally recommended as one of the easiest for foreigners to get approved for. Their cards come in three tiers- regular, Gold, and Premium. You can select the card network you want for your card (Visa/MasterCard/JCB/AmEx) and each comes with different benefits and annual fees. 
+[Rakuten Card](https://www.rakuten-card.co.jp/) is generally recommended as one of the easiest for foreigners to get approved for. [PayPay Card](https://www.paypay-card.co.jp/) has recently been [reported](https://www.reddit.com/r/JapanFinance/comments/1tn88hx/paypay_credit_card/) as easy to get approved for as well.
 
-Regular card: 
+Rakuten cards come in three tiers- regular, Gold, and Premium. You can select the card network you want for your card (Visa/MasterCard/JCB/AmEx) and each comes with different benefits and annual fees. PayPay cards (Visa/Master/JCB) offer similar benefits at very similar prices.
+
+Rakuten / PayPay regular card: 
 
 * no annual fee
 * earns 1 Rakuten point per 100 yen
 * the included overseas travel insurance only covers package holidays, so may not be applicable to most readers here
 * ETC card can be added for 550 yen annual fee 
 
-Gold card (AmEx option NOT available): 
+Rakuten Gold card (AmEx option NOT available): 
 
 * 2200 yen annual fee
 * earns 1 Rakuten point per 100 yen, +1 point multiplier on Rakuten Ichiba when shopping on your birthday month
@@ -44,7 +46,7 @@ Gold card (AmEx option NOT available):
 * Same insurance benefit for package holidays abroad
 * Waived ETC card annual fee
 
-Premium card: 
+Rakuten Premium / PayPay Gold card: 
 
 * 11000 yen annual fee
 * earns 1 Rakuten point per 100 yen, year-round +2 point multiplier on Rakuten Ichiba (caps at 5000 points) as well as +1 multiplier on birthday month
