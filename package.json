@@ -34,7 +34,7 @@
     "@docusaurus/module-type-aliases": "3.10.1",
     "@docusaurus/tsconfig": "3.10.1",
     "@playwright/test": "^1.60.0",
-    "@types/node": "^24.13.1",
+    "@types/node": "^24.13.2",
     "cheerio": "^1.2.0",
     "typescript": "^6.0.3",
     "wrangler": "^4.98.0"
