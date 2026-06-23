@@ -272,22 +272,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/core@npm:6.1.1":
-  version: 6.1.1
-  resolution: "@argos-ci/core@npm:6.1.1"
-  dependencies:
-    "@argos-ci/api-client": "npm:0.22.0"
-    "@argos-ci/util": "npm:4.0.0"
-    convict: "npm:^6.2.5"
-    debug: "npm:^4.4.3"
-    fast-glob: "npm:^3.3.3"
-    mime-types: "npm:^3.0.2"
-    sharp: "npm:^0.34.5"
-    tmp: "npm:^0.2.5"
-  checksum: 10c0/da579c02c8cdf641dde51170501d262c920883afcb83f2e77c2bb100518d62fdfa99ecfb5d5ac6ced0a31a86acd38a7f35b2fd33fff22a6f6d2bd7baf6e6c5ea
-  languageName: node
-  linkType: hard
-
 "@argos-ci/core@npm:6.2.1":
   version: 6.2.1
   resolution: "@argos-ci/core@npm:6.2.1"
@@ -304,16 +288,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/playwright@npm:^7.0.6":
-  version: 7.0.6
-  resolution: "@argos-ci/playwright@npm:7.0.6"
+"@argos-ci/playwright@npm:^7.0.8":
+  version: 7.0.8
+  resolution: "@argos-ci/playwright@npm:7.0.8"
   dependencies:
     "@argos-ci/browser": "npm:6.1.0"
-    "@argos-ci/core": "npm:6.1.1"
+    "@argos-ci/core": "npm:6.2.1"
     "@argos-ci/util": "npm:4.0.0"
     chalk: "npm:^5.6.2"
     debug: "npm:^4.4.3"
-  checksum: 10c0/22bf77b4fa7e88f185955583c09fd81036f72850e003857091f0bd4aebe86988750ca19e2528f0fff82b2b59debdcd0f7121767aa232d31b1eb3f9aab579d32c
+  checksum: 10c0/04844985cba9ed36ec8a579ac96252ceddb98046b310a4bb0560869131da027f5fb954ec8ba29b3a146ec496078cda1c21176756d6dade98a2553eca95a9f095
   languageName: node
   linkType: hard
 
@@ -10945,7 +10929,7 @@ __metadata:
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
     "@argos-ci/cli": "npm:^5.1.1"
-    "@argos-ci/playwright": "npm:^7.0.6"
+    "@argos-ci/playwright": "npm:^7.0.8"
     "@docusaurus/core": "npm:3.10.1"
     "@docusaurus/faster": "npm:^3.10.1"
     "@docusaurus/module-type-aliases": "npm:3.10.1"
@@ -15195,7 +15179,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sharp@npm:0.34.5, sharp@npm:^0.34.5":
+"sharp@npm:0.34.5":
   version: 0.34.5
   resolution: "sharp@npm:0.34.5"
   dependencies:
@@ -16010,7 +15994,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tmp@npm:^0.2.5, tmp@npm:^0.2.7":
+"tmp@npm:^0.2.7":
   version: 0.2.7
   resolution: "tmp@npm:0.2.7"
   checksum: 10c0/59eb55584f2f07210d3231b6a1f6b5c2b9794d8a7b509c8ee867ed2acad6d2245ee2448b7937b676ffbff3155a70077edde8a69f9d7cf0f90c86a62e8910c357
