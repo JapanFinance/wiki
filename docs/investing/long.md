@@ -166,6 +166,8 @@ This makes Sony Bank somewhat unique among bank based investment accounts, and a
 
 While they do have English support for some aspects of their banking, none of their investment services are offered in English. 
 
+While they do not offer a credit card equivalent to the competition, their [Club S Rewards Program](https://sonybank.jp/products/clubs/) includes investment balances held with them, which can offer up to 2% cashback on general debit card use, waived ATM withdrawal fees, waived inter-bank transfer fees etc.
+
 ## Products
 
 [2021-05 Popular investment products](https://www.reddit.com/r/JapanFinance/comments/nlukfg/where_you_guys_putting_your_money_right_now/). [eMaxis Slim](https://emaxis.jp/lp/slim/pr1/index.html) is a popular range of product, with the most popular being the [Global Equity (all countries))](https://emaxis.jp/fund/253425.html), based on the MSCI World index (see [comment on index and its currency basket](https://www.reddit.com/r/JapanFinance/comments/r7l9ce/comment/hn6wuzl/?utm_source=share&utm_medium=web2x&context=3) ).
