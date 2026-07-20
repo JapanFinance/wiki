@@ -268,9 +268,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/cli@npm:^6.3.0":
-  version: 6.3.0
-  resolution: "@argos-ci/cli@npm:6.3.0"
+"@argos-ci/cli@npm:^6.4.0":
+  version: 6.4.0
+  resolution: "@argos-ci/cli@npm:6.4.0"
   dependencies:
     "@argos-ci/api-client": "npm:0.26.0"
     "@argos-ci/core": "npm:6.6.1"
@@ -280,7 +280,7 @@ __metadata:
     update-notifier: "npm:^7.3.1"
   bin:
     argos: bin/argos-cli.js
-  checksum: 10c0/6c1a8fcf7bbb2269e4c09b5e673a7d93cd06cc885e4b055341c3af75e78e98f525b297ed752d6eaa1f53af3afaf82a3063ed48a0471fdca21c73712db739dfde
+  checksum: 10c0/4f2487258da8e6dbeccc3517b0a6f26f6eae6b8471e9c340d0f7e3ef8a77a0e1e9ab555f9b5a0de41ec1b4322a042879396a486167735307378dfe3909ffc212
   languageName: node
   linkType: hard
 
@@ -10992,7 +10992,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
-    "@argos-ci/cli": "npm:^6.3.0"
+    "@argos-ci/cli": "npm:^6.4.0"
     "@argos-ci/playwright": "npm:^7.3.6"
     "@docusaurus/core": "npm:3.10.2"
     "@docusaurus/faster": "npm:^3.10.2"
