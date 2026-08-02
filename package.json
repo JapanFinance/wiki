@@ -45,6 +45,17 @@
     "path-to-regexp": "^0.1.13",
     "package-json": "^8.1.1"
   },
+  "dependenciesMeta": {
+    "@swc/core": {
+      "built": true
+    },
+    "esbuild": {
+      "built": true
+    },
+    "workerd": {
+      "built": true
+    }
+  },
   "browserslist": {
     "production": [
       ">0.5%",
@@ -63,5 +74,5 @@
     "yarn": "4.2.1"
   },
   "description": "Website for r/JapanFinance wiki",
-  "packageManager": "yarn@4.13.0"
+  "packageManager": "yarn@4.18.0"
 }
