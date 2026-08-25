@@ -36,7 +36,7 @@
     "@playwright/test": "^1.62.1",
     "@types/node": "^24.13.2",
     "cheerio": "^1.2.0",
-    "typescript": "^6.0.3",
+    "typescript": "^7.0.2",
     "wrangler": "^4.125.0"
   },
   "resolutions": {
