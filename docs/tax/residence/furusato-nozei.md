@@ -54,6 +54,10 @@ There are myriad sites which offer easy furusato-nozei options; the most popular
 * https://event.rakuten.co.jp/furusato/
 * [FuruToku.Red](https://furusato-toku.red/furusatotax-site-hikaku-346) and [FuruSato.COM](https://furu-sato.com/total/value_rank) also regularly compares a large number of donation sites and cost-performance
 
+## What should I buy?
+
+* [Some furusato nozei recommendations](https://www.reddit.com/r/japanresidents/comments/1w37yl9/some_furusato_nozei_recommendations/) ([archive](https://archive.md/7rkZH))
+
 ## How can I check my donations have actually decreased my tax ?
 
 Only around June of the following year, now in possession of a freshly-issued Resident tax calculation slip, you can finally reconcile your donation with actual deductions.
@@ -65,22 +69,28 @@ Amount donated should be equal to :
 2) deduction on income tax equal to amount donated (noted on line 寄付金控除) multiplied by marginal income tax rate 
 3) remaining amount should appear in the detail section located at the bottom of the resident tax slip, sometimes slip between local and prefectural deductions
 
-[Reconciliation example](https://alexkwa.com/the-complete-guide-to-furusato-nozei/)
-
-## Furusato-Nozei and Point Hacking
-
-Rakuten often also does super sale events; if you prefer to use them for your platform, you can get a significant number of points for your Furusato Nozei purchases, within their limits.
+[Reconciliation example](https://alexkwa.com/the-complete-guide-to-furusato-nozei/).
 
 # Recent Updates
 
+### 2025
+
+* From October 2025, the [government has banned all point-back programs](https://furunavi.jp/discovery/knowledge/202506-abolition/).  There are no  more Rakuten super points, Amazon Cashbacks, etc, when utilizing Furusato Nozei.  Regular credit card points are unaffected.  Rakuten's campaigned failed, and now they have filed a [lawsuit](https://event.rakuten.co.jp/furusato/announce/signature/).
+* Possibly effective from 2027, [the Government may seek to impose an upper limit on Furusato-Nozei donation amounts](https://www.reddit.com/r/JapanFinance/comments/1pc6ya2/furusato_nozei_will_have_upper_limits_from_2026/), but not much is known at this time.
+
+### 2024
+
+* The new [Ministry of Internal Affairs and Communications guidance](https://www.yomiuri.co.jp/national/20230215-OYT1T50326/) that the total cost of providing gifts (including shipping, marketing, portal-site fees, etc) cannot exceed 50% of the donated amount has lead to widespread item price inflation.
+* From October 2025, the [government intends to ban point-back programs](https://www3.nhk.or.jp/news/html/20240625/k10014491601000.html). If this does come to pass, there will be no more Rakuten super points, Amazon Cashbacks, etc, when utilizing Furusato Nozei. Rakuten is [soliciting signatures](https://event.rakuten.co.jp/furusato/announce/signature/) to oppose this.
+
 ### 2023
 
-There is a new **[searchable website version](https://wiki.japanfinance.org/tax/residence/furusato-nozei/)** of the [Wiki](/tax/residence/furusato-nozei/)!  Please do feel free to use it as an alternative to Reddit's own lackluster UI.
-
-Some municipalities were spending more than 50% of the donation amount on return gift items, and have been [warned by the Ministry of Internal Affairs and Communications](https://www.yomiuri.co.jp/national/20230215-OYT1T50326/) that the total cost of providing these gifts, including shipping, marketing, portal-site fees, etc cannot exceed 50% of the donated amount.  This will lead to lucrative cash-like point-back campaigns yoinked and some gifts being pulled from the market or having their donation costs rise.
+* There is a new **[searchable website version](https://wiki.japanfinance.org/tax/residence/furusato-nozei/)** of the [Wiki](/tax/residence/furusato-nozei/)!  Please do feel free to use it as an alternative to Reddit's own lackluster UI.
+* Some municipalities were spending more than 50% of the donation amount on return gift items, and have been [warned by the Ministry of Internal Affairs and Communications](https://www.yomiuri.co.jp/national/20230215-OYT1T50326/) that the total cost of providing these gifts, including shipping, marketing, portal-site fees, etc cannot exceed 50% of the donated amount.  This will lead to lucrative cash-like point-back campaigns yoinked and some gifts being pulled from the market or having their donation costs rise.
 
 # Previous Megathreads:
 
+* 2025 - https://www.reddit.com/r/JapanFinance/comments/1pfnpgp/2025_furusato_nozei_question_thread/
 * 2024 - https://www.reddit.com/r/JapanFinance/comments/1h3xa4p/2024_furusato_nozei_question_thread/
 * 2023 - https://www.reddit.com/r/JapanFinance/comments/18dk8rx/2023_furusato_nozei_question_thread/
 * 2022 - https://www.reddit.com/r/JapanFinance/comments/zhnf11/2022_furusato_nozei_question_thread/
