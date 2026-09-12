@@ -33,7 +33,7 @@
     "@argos-ci/playwright": "^7.5.0",
     "@docusaurus/module-type-aliases": "3.10.2",
     "@docusaurus/tsconfig": "3.10.2",
-    "@playwright/test": "^1.62.1",
+    "@playwright/test": "^1.63.0",
     "@types/node": "^24.13.2",
     "cheerio": "^1.2.0",
     "typescript": "^6.0.3",
