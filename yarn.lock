@@ -250,17 +250,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/api-client@npm:0.31.2":
-  version: 0.31.2
-  resolution: "@argos-ci/api-client@npm:0.31.2"
-  dependencies:
-    debug: "npm:^4.4.3"
-    openapi-fetch: "npm:^0.17.0"
-    p-retry: "npm:^8.0.1"
-  checksum: 10c0/29a2ea7202de06eed4b71d8c1086e9985f4544bed8079bf34a0adbbc110de0071d7c15d47c6d245f33068219e010272960a71e0ab43bf1f15920a952fe28098c
-  languageName: node
-  linkType: hard
-
 "@argos-ci/api-client@npm:0.31.3":
   version: 0.31.3
   resolution: "@argos-ci/api-client@npm:0.31.3"
@@ -272,10 +261,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/browser@npm:6.5.0":
-  version: 6.5.0
-  resolution: "@argos-ci/browser@npm:6.5.0"
-  checksum: 10c0/e3e1acbd496a3b4d306fc94da3bf9e6bcf8a271c15b6bea1a80d5b638870df410039825e50bc996147c6cb802469409ebb824e610cea85086982cc11554b58e2
+"@argos-ci/browser@npm:6.6.0":
+  version: 6.6.0
+  resolution: "@argos-ci/browser@npm:6.6.0"
+  checksum: 10c0/6bb5983d3bfa10adb912205d759d369e2572a7fead8b070a26e3aa5e6b9e8ffb6396b20ba531518b57b5446b405fb17dfb43bd453780947b88fa06fc445d401a
   languageName: node
   linkType: hard
 
@@ -292,23 +281,6 @@ __metadata:
   bin:
     argos: bin/argos-cli.js
   checksum: 10c0/d66765a37c68b0245110ef58e308e9b7c64b59f635da06e4afc427b1b4e237fbd5154b2454b84d0bf7b19225100bb258f4b7e37044ef2417521eca7cf4ce7744
-  languageName: node
-  linkType: hard
-
-"@argos-ci/core@npm:6.8.7":
-  version: 6.8.7
-  resolution: "@argos-ci/core@npm:6.8.7"
-  dependencies:
-    "@argos-ci/api-client": "npm:0.31.2"
-    "@argos-ci/util": "npm:4.2.2"
-    convict: "npm:^6.2.5"
-    debug: "npm:^4.4.3"
-    fast-glob: "npm:^3.3.3"
-    mime-types: "npm:^3.0.2"
-    p-retry: "npm:^8.0.1"
-    sharp: "npm:^0.35.5"
-    tmp: "npm:^0.2.7"
-  checksum: 10c0/474dc09c03a264e52d428b2457298c8d776b4e1bf91b4565b27faed102a56624be6a19d3b9212fa4f0346f3e076fa9785fbb36a56536dbf925559d3a6f540897
   languageName: node
   linkType: hard
 
@@ -329,23 +301,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/playwright@npm:^7.7.1":
-  version: 7.7.1
-  resolution: "@argos-ci/playwright@npm:7.7.1"
+"@argos-ci/playwright@npm:^7.8.0":
+  version: 7.8.0
+  resolution: "@argos-ci/playwright@npm:7.8.0"
   dependencies:
-    "@argos-ci/browser": "npm:6.5.0"
-    "@argos-ci/core": "npm:6.8.7"
-    "@argos-ci/util": "npm:4.2.2"
+    "@argos-ci/browser": "npm:6.6.0"
+    "@argos-ci/core": "npm:6.8.8"
+    "@argos-ci/util": "npm:4.2.3"
     chalk: "npm:^6.0.1"
     debug: "npm:^4.4.3"
-  checksum: 10c0/db54a83d8fcf12bdc8d23aa8c1be4ff47b3ce0a9dc0ed54e4c08949d781f297cdca1a2f167088acc45749b2a5aebc00143c5b4d368c4f32d5048cd278140e80c
-  languageName: node
-  linkType: hard
-
-"@argos-ci/util@npm:4.2.2":
-  version: 4.2.2
-  resolution: "@argos-ci/util@npm:4.2.2"
-  checksum: 10c0/e3ac719324ba815c3c03e6d5b08e6ed31ee574e0dc0e911377c7a7dbe1b7fec0969e7f4f15a2a847ea6f86c2d0d96f4a1bfb4c7474d35a122051588fb50238e9
+  checksum: 10c0/435adc2503b9d29bcab9ae1eeeca0c7de8dc9d7342c0082a02545721396464c5b7790f8c2b6415bb2d6478c41b9e2baa724a6711f2b240a5528bff51b56059aa
   languageName: node
   linkType: hard
 
@@ -10714,7 +10679,7 @@ __metadata:
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
     "@argos-ci/cli": "npm:^6.10.0"
-    "@argos-ci/playwright": "npm:^7.7.1"
+    "@argos-ci/playwright": "npm:^7.8.0"
     "@docusaurus/core": "npm:3.10.2"
     "@docusaurus/faster": "npm:^3.10.2"
     "@docusaurus/module-type-aliases": "npm:3.10.2"
