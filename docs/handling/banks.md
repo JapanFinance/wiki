@@ -20,9 +20,9 @@
 
 The interest rate on bank accounts varies by bank and conditions. See the following for details on some banks with higher than usual interest rates:
 
-* [Aozora Bank](https://www.aozorabank.co.jp/bank/kinri/index.html) 0.5% on first 1 million yen, then 0.35% (as of 2025-04-26)
-* [auじぶん銀行](https://www.jibunbank.co.jp/interest_and_commission/interest/) up to 0.51% (must use other AU services to get the higher rate) (as of 2025-04-26)
-* [Rakuten Bank](https://www.rakuten-bank.co.jp/interest/details.html#anchor-02) 0.28% on the first 3,000,000 yen; 0.22% beyond that (must sign up for "money bridge") (as of 2025-04-26)
+* [Aozora Bank](https://www.aozorabank.co.jp/bank/kinri/index.html) 1.2% on first 1 million yen, then 0.75% (as of 2026-10-29)
+* [auじぶん銀行](https://www.jibunbank.co.jp/interest_and_commission/interest/) up to 1.05% (must use other AU services to get the higher rate) (as of 2026-10-29)
+* [Rakuten Bank](https://www.rakuten-bank.co.jp/interest/details.html#anchor-02) 0.48% on the first 10,000,000 yen; 0.42% beyond that (must sign up for "money bridge") (as of 2026-10-29)
 
 
 ## Credit cards
