@@ -50,6 +50,7 @@ New in 2021, most Furusato-Nozei shopping sites will send you a single consolida
 
 There are myriad sites which offer easy furusato-nozei options; the most popular are:
 
+* https://furusato-otoku.com/chokuei-list - a list of direct municipality portals
 * https://www.furusato-tax.jp/
 * https://event.rakuten.co.jp/furusato/
 * [FuruToku.Red](https://furusato-toku.red/furusatotax-site-hikaku-346) and [FuruSato.COM](https://furu-sato.com/total/value_rank) also regularly compares a large number of donation sites and cost-performance
