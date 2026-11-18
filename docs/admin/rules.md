@@ -67,6 +67,17 @@ Examples of the types of content that will generally be prohibited under this ru
 
 Note that there is [a page in the sub's wiki](/other/pros) where users can add links to relevant professionals. If you fit that description, feel free to add yourself to the wiki, but please refrain from promoting yourself or your employer elsewhere in the sub.
 
+### "I made a thing"
+
+In general, users who want to share information (or want the community to review something they have written) should post their writing in the subreddit **instead of linking to an external site**. So posts akin to "please check this website I made" are typically violations of Rule 5.
+
+Posts promoting or seeking feedback on "homemade" tools (calculators, simulators, estimators, etc.) are also generally prohibited. However, the mods will make an exception to this rule if **both** of following are true:
+
+1. It is clear that the tool has been made with care (i.e., not just vibe-coded in an afternoon) and cites authoritative sources.
+2. The user who made the tool has a long history of making useful contributions to r/JapanFinance.
+
+Also keep in mind that the subreddit has its own [take-home pay calculator](https://kei3.japanfinance.org/). Users with feedback about the sub's calculator (or feature requests, etc.) are encouraged to [contact the mods](https://www.reddit.com/message/compose?to=r/JapanFinance).
+
 ## Rule 6: Use the "US Taxpayer" user flair if applicable
 
 As described on the IRS's website [here](https://www.irs.gov/individuals/international-taxpayers/classification-of-taxpayers-for-us-tax-purposes), there are two types of entities under US tax law: "US persons" and "foreign persons". Being a "US person" under US tax law will significantly affect your approach to personal finance as a Japanese resident. So to streamline discussions within the sub, we are asking users who believe themselves to be "US persons" under US tax law to attach the "US Taxpayer" flair to their username. (The flair will be visible only within this sub.)
